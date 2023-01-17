@@ -1,0 +1,16 @@
+he (grandpa's age);ông ấy (formal) | ông đó/ ổng (infomal)
+she (grandma’s age);bà ấy (formal) | bà đó/ bả (infomal)
+she (mom’s age or talk about a woman);cô ấy (formal) | cô đó/ cổ (infomal)
+he (dad’s age or talk about a man);chú ấy (formal) | chú đó (infomal)
+he/she (dad’s age or talk about a man/woman);bác ấy (formal) | bác đó (infomal)
+he/she (a small child);bé ấy (formal) | bé đó (infomal)
+he (older bro);anh ấy  (formal) | anh đó/ ảnh (infomal)
+she (older sis);chị ấy  (formal) | chị đó/ chỉ (infomal)
+he/she (younger bro/sis); em ấy  (formal) | em đó/ ẻm (infomal)
+it;nó
+we (the group of the speaker);chúng tôi (formal) | tụi tui/ anh/ chị/… (informal)
+we (the speaker and the listener);chúng ta (fromal) | tụi mình (informal)
+fat;mập
+bear;gấu
+How old is your cat?;mèo bao nhiêu tuổi?
+his name?;tên gì?

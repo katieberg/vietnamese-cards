@@ -1,0 +1,197 @@
+Sáng nay [sound:933b9ce3fd4a98f55c664d3ceacad0da.mp3];____ ___ tui ăn cá.;Sáng nay tui ăn cá. [sound:e93cbb70839c1469178739cf00495961.mp3];This morning;This morning, I ate fish.
+
+Chiều nay [sound:3d6307ddabc2afca8407e6effcfde0b6.mp3];_____ ___ cổ không đi làm.;Chiều nay cổ không đi làm. [sound:261ee6e239ec7c0c608536149e0394a4.mp3];This afternoon;This afternoon she doesn't go to work.
+
+đi làm [sound:68fab23fdb2c5e3c48b88c75810d3eba.mp3];Chiều nay cổ không __ ___.;Chiều nay cổ không đi làm. [sound:261ee6e239ec7c0c608536149e0394a4.mp3];go to work;This afternoon she doesn't go to work.
+
+Trưa nay [sound:a2022c608715a251d13645a723302634.mp3];___ __ ảnh đi ngủ.;Trưa nay ảnh đi ngủ. [sound:8e38d9e5f39700b8bca29cc74f7306e7.mp3];This noon;This noon he went to bed.
+
+đi ngủ [sound:4f74f9f4e8ca9a0c260163bb38b381ba.mp3];Trưa nay ảnh __ ___.;Trưa nay ảnh đi ngủ. [sound:8e38d9e5f39700b8bca29cc74f7306e7.mp3];went to bed;This noon he went to bed.
+
+Tối nay [sound:ca000fc6da72c2c3a13eca76e6bed5b0.mp3];___ ___ anh thích ăn gì?;Tối nay anh thích ăn gì? [sound:c0bf48490b314f0b6c21cfe139917ea9.mp3];this evening;What do you want to eat this evening?
+
+thích [sound:a3ae188a9324049c2f190eae09f3598a.mp3];Tối nay anh _____ ăn gì??;Tối nay anh thích ăn gì? [sound:c0bf48490b314f0b6c21cfe139917ea9.mp3];like;What do you like to eat tonight?
+
+Đêm nay [sound:2c0d190ba1bea1b1dbddbdf314089646.mp3];___ ___ trời nóng.;Đêm nay trời nóng. [sound:26daa817b4d7d0df9bb6f3c34d0f71de.mp3];Tonight;Tonight it is hot.
+
+nóng [sound:414b2e7ef53ecb5e1698a0c19755340b.mp3];Đêm nay trời ____.;Đêm nay trời nóng. [sound:26daa817b4d7d0df9bb6f3c34d0f71de.mp3];hot;Tonight it is hot.
+
+Con vật [sound:2f37f057fc5a898fc3e5acdcd5ddcf69.mp3];___ ___ yêu thích của bạn là gì?;Con vật yêu thích của bạn là gì? [sound:55695c5ecb6aaf226db64f948ab91d3f.mp3];animal;What is your favorite animal?
+
+yêu thích [sound:ef43b4da3437460d9e11b64486782577.mp3];Con vật ___ _____ của bạn là gì?;Con vật yêu thích của bạn là gì? [sound:55695c5ecb6aaf226db64f948ab91d3f.mp3];favorite;What is your favorite animal?
+
+của bạn [sound:5176f5967826d90826d35486a6cbe773.mp3];Con vật yêu thích ___ ___ là gì?;Con vật yêu thích của bạn là gì? [sound:55695c5ecb6aaf226db64f948ab91d3f.mp3];your;What is your favorite animal?
+
+ngon [sound:fe6ecab134c875efc57e003fad457802.mp3];Thịt heo ____.;Thịt heo ngon. [sound:b58874fd809c37c48c9f95fd0ef5ed18.mp3];yummy;Pork is yummy.
+
+Thịt bò [sound:ac9a53fbd7540e445abfe231bc97f476.mp3];____ __ tốt cho sức khoẻ.;Thịt bò tốt cho sức khoẻ. [sound:e82131ea4e3d74f8eba88e9cef546d05.mp3];Beef;Beef is good for health.
+
+sức khoẻ [sound:d2f6e35ea361bbd0f8c6ab55e3986706.mp3];Thịt bò tốt cho ___ ____.;Thịt bò tốt cho sức khoẻ. [sound:e82131ea4e3d74f8eba88e9cef546d05.mp3];health;Beef is good for health.
+
+chó [sound:502e28d64052d8bb22ec2cbd2d1ca7bd.mp3];Tui thích ___;Tui thích chó. [sound:399cc2122dd7acd0ec52c7293df1d22d.mp3];dogs;I like dogs.
+
+mèo [sound:395a90be8f22ca8ec045409b39159208.mp3];Bạn thích mèo ___?;Bạn thích mèo nào? [sound:f6bd6d3bf5869b5b8cbced783550e2c6.mp3];Which;Which cat do you like?
+
+nào [sound:f737f650b70a5d84e25314cba710b4ed.mp3];Bạn thích ___ nào?;Bạn thích mèo nào? [sound:f6bd6d3bf5869b5b8cbced783550e2c6.mp3];cat;Which cat do you like?
+
+chưa bao giờ [sound:bb8d1bf510ad7cc07a193e8f6c230bb0.mp3];Ổng ____ ___ ___ ăn cá ở Việt Nam.;Ổng chưa bao giờ ăn cá ở Việt Nam. [sound:5278d903872555ed8dea5fb91d23faee.mp3];never;He has never eaten fish in Vietnam.
+
+đồ ăn [sound:77620033ad6e42d0dac10905bab757db.mp3];Bạn thích __ __ Việt Nam không?;Bạn thích đồ ăn Việt Nam không? [sound:c1d6a0bb175f1b0683334628fd48fc5c.mp3];food(cuisine);Do you like Vietnamese food?
+
+nhiều [sound:bc969820645cc2d1c4684d5321206984.mp3];Quán cà phê này có _____ loại nước uống.;Quán cà phê này có nhiều loại nước uống. [sound:62fe1656553e5664924f8bfdd726cce0.mp3];many (lots of);There's many kinds of drinks in this coffee shop.
+
+loại [sound:c6e1053d100500d513a54c2efe8724cf.mp3];Quán cà phê này có nhiều ____ nước uống.;Quán cà phê này có nhiều loại nước uống. [sound:62fe1656553e5664924f8bfdd726cce0.mp3];kinds;There's many kinds of drinks in this coffee shop.
+
+này [sound:9aeead61877f381a7fa02a36460400c0.mp3];Cơm ___ ngon.;Cơm này ngon. [sound:dbe7bbb9f25f53024a086ce96897a92b.mp3];This;This rice is tasty.
+
+đi chơi [sound:985002f31fa87e224f1bb106920c02f8.mp3];Anh __ ____ với gia đình;Anh đi chơi với gia đình [sound:369c2b4dac1f70e895bfadd9428cb4fa.mp3];hang out;I hang out with family
+
+gia đình [sound:41f98a1e23b0b69f9e8d6cbf2d178871.mp3];Anh đi chơi với ___ ____;Anh đi chơi với gia đình [sound:369c2b4dac1f70e895bfadd9428cb4fa.mp3];family;I hang out with family
+
+với [sound:de3ae95ba2ab14cf480f49715490ce8b.mp3];Anh đi chơi ___ gia đình;Anh đi chơi với gia đình [sound:369c2b4dac1f70e895bfadd9428cb4fa.mp3];with;I hang out with family
+
+đậu [sound:d31484fe914c50dac573534765769ac9.mp3];___ thận trắng;đậu thận trắng [sound:c67a4ee390b6e457407caddfae555a75.mp3];beans;white kidney beans
+
+trắng [sound:ff74ccef3eb28719e4c1dbc35ba83462.mp3];đậu thận _____;đậu thận trắng [sound:c67a4ee390b6e457407caddfae555a75.mp3];white;white kidney beans
+
+bài [sound:33c07c824ca22d6f499a6312ecd9a27b.mp3];___ mười lăm;bài mười lăm [sound:b09d760dae69061b94c6fe9ba0ad2e5a.mp3];lesson;lesson fifteen
+
+trang [sound:40235c9767bbd77b72df2cc0aac0c3f4.mp3];_____ bảy mươi lăm;trang bảy mươi lăm [sound:6aa46f3a5bb343e9147f729f2de7cf6b.mp3];page;page seventy five
+
+đánh ra [sound:7c2820695999c9cca16f510d3ac77a23.mp3];em ____ __ được không?;em đánh ra được không? [sound:7342c663b081675db87c35ed7aaf9db9.mp3];type out;can you type it? 
+
+cuối tuần [sound:c0a25649f8deadb18086e1ef9d91b4fe.mp3];____ ____ này anh làm gì?;cuối tuần này anh làm gì? [sound:181f242fb2ea1c1aee1418a01c02e30f.mp3];weekend;this weekend what will you do?
+
+nấu ăn [sound:fdd7e5d8f89ca1e65400b07bea3a1f99.mp3];cuối tuần này anh đi học ___ __.;cuối tuần này anh đi học nấu ăn. [sound:022d47b4b4a7deb649a58c6bdeaba534.mp3];cooking;This weekend I will go learn cooking.
+
+làm xong [sound:544da2e309def501facc2d21e8177984.mp3];anh phải ___ ____ một số thứ để sẵn sàng cho tuần sau;anh phải làm xong một số thứ để sẵn sàng cho tuần sau [sound:ee58660285e5f3b7b4f05d4148289b4b.mp3];finish;I have to finish some things to ready for next week
+
+một số [sound:1d8b598aa4de8bf16b883cce91f44d05.mp3];anh phải làm xong ___ __ thứ để sẵn sàng cho tuần sau;anh phải làm xong một số thứ để sẵn sàng cho tuần sau [sound:ee58660285e5f3b7b4f05d4148289b4b.mp3];some;I have to finish some things to ready for next week
+
+sẵn sàng [sound:cf282e8a27e5ab0055dd371bbe50a5e8.mp3];anh phải làm xong một số thứ để ___ ____ cho tuần sau;anh phải làm xong một số thứ để sẵn sàng cho tuần sau [sound:ee58660285e5f3b7b4f05d4148289b4b.mp3];ready;I have to finish some things to ready for next week
+
+sợ [sound:7488b95a95b455cd14c535c3bca315c5.mp3];anh không __ xe máy hả?;anh không sợ xe máy hả? [sound:853627d8a6a10d2d1aae589eef680b25.mp3];afraid;You're not afraid of your bike are you?
+
+chắc [sound:aa6accef8850a64c43a962ddac195007.mp3];____;chắc [sound:aa6accef8850a64c43a962ddac195007.mp3];maybe;maybe
+
+coi [sound:fdde74cb64323ec11bbdd598d0599756.mp3];Anh đã ___ Killing Eve trên Netflix;Anh đã coi Killing Eve trên Netflix [sound:0e7577dff13f306b60e39221bbe69c04.mp3];watch;I watched Killing Eve on Netflix
+
+trên [sound:b47ab3d7ca93214f26fb9fd8e625ae0a.mp3];Anh đã coi Killing Eve ____ Netflix;Anh đã coi Killing Eve trên Netflix [sound:0e7577dff13f306b60e39221bbe69c04.mp3];on (through);I watched Killing Eve on Netflix
+
+món [sound:8e729496d604ce9422771aed35d544da.mp3];Anh đã ăn ___ anh làm ở lớp nấu ăn thứ bảy;Anh đã ăn món anh làm ở lớp nấu ăn thứ bảy [sound:f4bc2d754ce2b68b48cb972bdd76c8e5.mp3];dish;I ate the dish I made in cooking class on Saturday
+
+lớp nấu ăn [sound:e252913fa828ccafab523446740e651d.mp3];Anh đã ăn món anh làm ở ___ ___ __ thứ bảy;Anh đã ăn món anh làm ở lớp nấu ăn thứ bảy [sound:f4bc2d754ce2b68b48cb972bdd76c8e5.mp3];cooking class;I ate the dish I made in cooking class on Saturday
+
+thứ bảy [sound:ce5bdf784c0279662c870fbe8b9244a3.mp3];Anh đã ăn món anh làm ở lớp nấu ăn ___ ___;Anh đã ăn món anh làm ở lớp nấu ăn thứ bảy [sound:f4bc2d754ce2b68b48cb972bdd76c8e5.mp3];Saturday;I ate the dish I made in cooking class on Saturday
+
+hôm nay [sound:20c4b053d7b50e0184e6fe80b21b1092.mp3];(today) ___ ___;hôm nay [sound:20c4b053d7b50e0184e6fe80b21b1092.mp3];today;today
+
+hôm qua [sound:e992ccc5a5f6d616aac6ffd1e216a590.mp3];(yesterday) ___ ___;hôm qua [sound:e992ccc5a5f6d616aac6ffd1e216a590.mp3];yesterday;yesterday
+
+ngày mai [sound:5daf96344ce7b17185886bb2c36c8bbc.mp3];____ ___ anh muốn ăn gì?;ngày mai anh muốn ăn gì? [sound:b7718495173043e9ddded46d0b31ec7d.mp3];tomorrow;What do you want to eat tomorrow?
+
+cần [sound:c9da6b9032dedfb0ee1216fd96b981a9.mp3];Anh ___ học tên đồ ăn;Anh cần học tên đồ ăn [sound:71a9a8a4fe1723937325e9d486d04b98.mp3];need; I need to learn names of the food
+
+Tây Ban Nha [sound:023b87c1f93baa22a07d314510695635.mp3];Tôi cần học tiếng ___ ___ ___;Tôi cần học tiếng Tây Ban Nha [sound:0e26ab16b03323042ff81ebba452e224.mp3];Spain;I need to learn spanish
+
+ôn bài [sound:45cb379f1ae6dc5107de14ae5c63b3c9.mp3];mình sẽ __ ___;mình sẽ ôn bài [sound:e9b25d9329670ab509e16789d9353141.mp3];review;Let's review
+
+lần [sound:e8abe630ebc78852f6baaa853babe19e.mp3];Anh đi Dubai 3 ___ rồi.;Anh đi Dubai 3 lần rồi. [sound:7df2ad76cc5c2d66a0e32775f18b5329.mp3];times; I been to Dubai 3 times already
+
+máy bay [sound:83aac2703612868ad18d720e421dd665.mp3];Anh đi Dubai bằng ___ ___;Anh đi Dubai bằng máy bay [sound:85c3bc26e790c08041e1427e03deec78.mp3];plane; I went to Dubai by plane
+
+đi bộ [sound:8df02abe42c60517c45a3fcde694d6ff.mp3];anh đi __ __ ăn;anh đi bộ đi ăn [sound:21f48dbc27beece77e7e8702c63b89fe.mp3];walking;I walk to eat
+
+bằng [sound:25e4c2053940a49615bfb7dff5ce0900.mp3];anh đi chơi ____ xe hơi;anh đi chơi bằng xe hơi [sound:c154b3782f647e403d72c94608c28445.mp3];by;I went to hangout by car
+
+quen [sound:c72f0d6399aa5c718b48effb5ff4a3a1.mp3];anh ___ đi xe máy rồi;anh quen đi xe máy rồi. [sound:8ce8871c60846b89289509d95b2b2514.mp3];get used to;I am already used to the motorbike
+
+lại [sound:3259dfef3de4fd0bfec158ff40ee1154.mp3];em nói ___ được không?;em nói lại được không? [sound:2f1672b9afc7039b337d12a273cd17b3.mp3];again;Can you say it again?
+
+ngày nào cũng [sound:b32a28de4459a9ebb8f031b83274e3a5.mp3];____ ___ anh ____ đi làm bằng xe máy hả?;ngày nào anh cũng đi làm bằng xe máy hả? [sound:2c6eb1f9433966009193a672e7c9d0ac.mp3];every day;You go to work by bike every day?
+
+mấy lần [sound:79adc3b2eda2af1a1da6fd6c40c18a9c.mp3];(how many times?) ___ ___;mấy lần [sound:79adc3b2eda2af1a1da6fd6c40c18a9c.mp3];How many times?;How many times?
+
+nhớ [sound:6da24c2b9ce87692419d7b5631bc19e0.mp3];anh không ___;anh không nhớ [sound:f3367187d3e29b7b0647d010c78b4b7d.mp3];remember;I don't remember
+
+câu hỏi [sound:6bc40ea6d6b58ea41044fbee6edab7e2.mp3];anh có ___ ___ không?;Anh có câu hỏi không? [sound:157fc4660581a528f1a34219772bf814.mp3];question;do you have question?
+
+tháng [sound:8a310b56eacb6d054425c5257782f387.mp3];(month) _____;tháng [sound:8a310b56eacb6d054425c5257782f387.mp3];month;month
+
+hồi nào [sound:9ec2922fbba68ec9862d8e45a3b79af7.mp3];Ủa mẹ ơi, mẹ đi Huế ___ ___ vậy?;Ủa mẹ ơi, mẹ đi Huế hồi nào vậy? [sound:5c3d8258171a0c7b0b055d3802824a11.mp3];When (in the past);Hey mom, when did you go to Hue?
+
+tháng trước [sound:a9ff1aaf4e89cb94b2c9130ca75cb3f3.mp3];À, mẹ đi Huế _____ _____ đó.;À, mẹ đi Huế tháng trước đó. [sound:e3c638c889ef0d578dc08df081a02a2d.mp3];last month;Well, I went to Hue last month.
+
+không [sound:37726840f91019b3b31df94a08d9e5ab.mp3];_____;không [sound:37726840f91019b3b31df94a08d9e5ab.mp3];zero;zero
+
+một [sound:7efc49fc529dc01762d806100bc0c094.mp3]; ___;một [sound:7efc49fc529dc01762d806100bc0c094.mp3];one;one
+
+hai [sound:94e26e941119f80474a87f58f10792c3.mp3];___;hai [sound:94e26e941119f80474a87f58f10792c3.mp3];two;two
+
+ba [sound:4c507b607450d1c2883d4e0a9aed5631.mp3];__;ba [sound:4c507b607450d1c2883d4e0a9aed5631.mp3];three;three
+
+bốn [sound:af80c639ea78b5b3699985650bf3ec58.mp3];___;bốn [sound:af80c639ea78b5b3699985650bf3ec58.mp3];four;four
+
+năm [sound:42ea1f5ce4905d82e5e1d0c65a6a9ca5.mp3];___;năm [sound:42ea1f5ce4905d82e5e1d0c65a6a9ca5.mp3];five;five
+
+sáu [sound:77214eb39bd2bccbfeafa6227702a817.mp3];___;sáu [sound:77214eb39bd2bccbfeafa6227702a817.mp3];six;six
+
+bảy [sound:66c5f62c3ae9d000ae0d8be6bb2d4a66.mp3];___;bảy [sound:66c5f62c3ae9d000ae0d8be6bb2d4a66.mp3];seven;seven
+
+tám [sound:2fdc755b40a735f817a58dd73a647b46.mp3];___;tám [sound:2fdc755b40a735f817a58dd73a647b46.mp3];eight;eight
+
+chín [sound:903b1b485b70a064cd9c8110a6aa5c45.mp3];____;chín [sound:903b1b485b70a064cd9c8110a6aa5c45.mp3];nine;nine
+
+mười một [sound:76e7f4b9380757710868285193138eba.mp3];____ ___;mười một [sound:76e7f4b9380757710868285193138eba.mp3];eleven;eleven
+
+mười hai [sound:34d931482cb813151ad372441ee6168a.mp3];____ ___;mười hai [sound:34d931482cb813151ad372441ee6168a.mp3];twelve;twelve
+
+mười ba [sound:7300e97aec1c2e6e21586ad32a5bfbcf.mp3];____ __;mười ba [sound:7300e97aec1c2e6e21586ad32a5bfbcf.mp3];thirteen;thirteen
+
+mười bốn [sound:05f879f5796f7bf9b2f6814028e90c87.mp3];____ ___;mười bốn [sound:05f879f5796f7bf9b2f6814028e90c87.mp3];fourteen;fourteen
+
+mười lăm [sound:aade35a64c15deff1b06e5f48a163c60.mp3];____ ___;mười lăm [sound:aade35a64c15deff1b06e5f48a163c60.mp3];fifteen;fifteen
+
+mười sáu [sound:5f90fc0309a32c4adb332431c1fe93d9.mp3];____ ___;mười sáu [sound:5f90fc0309a32c4adb332431c1fe93d9.mp3];sixteen;sixteen
+
+mười bảy [sound:4b77063a2b42317ca89582b71f3440e6.mp3];____ ___;mười bảy [sound:4b77063a2b42317ca89582b71f3440e6.mp3];seventeen;seventeen
+
+mười tám [sound:7c67fb60a8809fae922ee235288493f6.mp3];____ ___;mười tám [sound:7c67fb60a8809fae922ee235288493f6.mp3];eighteen;eighteen
+
+mười chín [sound:5a92a9a1033802adffa7d22a7b2fef4d.mp3];____ ____;mười chín [sound:5a92a9a1033802adffa7d22a7b2fef4d.mp3];nineteen;nineteen
+
+hai mươi [sound:9a0e60d8f58cb709341bc0c5dbeefd61.mp3];___ ____;hai mươi [sound:9a0e60d8f58cb709341bc0c5dbeefd61.mp3];twenty;twenty
+
+hai mươi mốt [sound:d0e0d4986f5c32abc29208b32f59467d.mp3];___ ____ ___;hai mươi mốt [sound:d0e0d4986f5c32abc29208b32f59467d.mp3];twenty one;twenty one
+
+hai mươi hai [sound:c04493812bec83f7fda45cab20b6f000.mp3];___ ____ ___;hai mươi hai [sound:c04493812bec83f7fda45cab20b6f000.mp3];twenty two;twenty two
+
+hai mươi ba [sound:b7cc572c516696cd42082734f759874f.mp3];___ ____ __;hai mươi ba [sound:b7cc572c516696cd42082734f759874f.mp3];twenty three;twenty three
+
+hai mươi bốn [sound:14d3ce31129941409683ffff1c6d60f0.mp3];___ ____ ___;hai mươi bốn [sound:14d3ce31129941409683ffff1c6d60f0.mp3];twenty four;twenty four
+
+hai mươi tư [sound:74300cbca9a5eddf4fe7fbd97dd7ca5c.mp3];___ ____ __;hai mươi tư [sound:74300cbca9a5eddf4fe7fbd97dd7ca5c.mp3];twenty four;twenty four
+
+hai mươi lăm [sound:d11421c283866461105c2b831e836245.mp3];___ ____ ___;hai mươi lăm [sound:d11421c283866461105c2b831e836245.mp3];twenty five;twenty five
+
+hai mươi sáu [sound:cda310985781423abc0efe10bf55817f.mp3];___ ____ ___;hai mươi sáu [sound:cda310985781423abc0efe10bf55817f.mp3];twenty six;twenty six
+
+hai mươi bảy [sound:6faa133ceffc9aae4f6caef2c966b198.mp3];___ ____ ___;hai mươi bảy [sound:6faa133ceffc9aae4f6caef2c966b198.mp3];twenty seven;twenty seven
+
+hai mươi tám [sound:f4d127a9b7591acae490d116a259752a.mp3];___ ____ ___;hai mươi tám [sound:f4d127a9b7591acae490d116a259752a.mp3];twenty eight;twenty eight
+
+hai mươi chín [sound:eed19d7f5745139850c60493b75019c5.mp3];___ ____ ____;hai mươi chín [sound:eed19d7f5745139850c60493b75019c5.mp3];twenty nine;twenty nine
+
+ba mươi [sound:3a23fe41bd85a766f0c7510e53d37c8e.mp3];__ ____;ba mươi [sound:3a23fe41bd85a766f0c7510e53d37c8e.mp3];thirty;thirty
+
+bốn mươi [sound:5a5365b03b4138d0b9f857d58c2ac724.mp3];___ ____;bốn mươi [sound:5a5365b03b4138d0b9f857d58c2ac724.mp3];fourty;fourty
+
+năm mươi [sound:cea69d6f3f64f1730b6a7d8a39e7ad4a.mp3];___ ____;năm mươi [sound:cea69d6f3f64f1730b6a7d8a39e7ad4a.mp3];fifty;fifty
+
+sáu mươi [sound:ebf62e381d6420d6f64716ab41849e0f.mp3];___ ____;sáu mươi [sound:ebf62e381d6420d6f64716ab41849e0f.mp3];sixty;sixty
+
+bảy mươi [sound:7b5538e232b382470b91e00eca0a8b67.mp3];___ ____;bảy mươi [sound:7b5538e232b382470b91e00eca0a8b67.mp3];seventy;seventy
+
+tám mươi [sound:dc8e12b0f898d121e4e33f6532e0d79a.mp3];___ ____;tám mươi [sound:dc8e12b0f898d121e4e33f6532e0d79a.mp3];eighty;eighty
+
+chín mươi [sound:2114ed74866e5ae6e0179bc7795cb68f.mp3];____ ____;chín mươi [sound:2114ed74866e5ae6e0179bc7795cb68f.mp3];ninty;ninty

@@ -1,0 +1,60 @@
+____ ___ tui ăn cá.;Sáng nay;Sáng nay tui ăn cá.;This morning;This morning, I ate fish.
+_____ ___ cổ không đi làm.;Chiều nay;Chiều nay cổ không đi làm.;This afternoon;This afternoon she doesn't go to work.
+Chiều nay cổ không __ ___.;đi làm;Chiều nay cổ không đi làm.;go to work;This afternoon she doesn't go to work.
+___ __ ảnh đi ngủ.;Trưa nay;Trưa nay ảnh đi ngủ.;This noon;This noon he went to bed.
+Trưa nay ảnh __ ___.;đi ngủ;Trưa nay ảnh đi ngủ.;went to bed;This noon he went to bed.
+___ ___ anh thích ăn gì?;Tối nay;Tối nay anh thích ăn gì?;this evening;What do you want to eat this evening?
+Tối nay anh _____ ăn gì??;thích;Tối nay anh thích ăn gì?;like;What do you like to eat tonight?
+___ ___ trời nóng.;Đêm nay;Đêm nay trời nóng.;Tonight;Tonight it is hot.
+Đêm nay trời ____.;nóng;Đêm nay trời nóng.;hot;Tonight it is hot.
+___ ___ yêu thích của bạn là gì?;Con vật;Con vật yêu thích của bạn là gì?;animal;What is your favorite animal?
+Con vật ___ _____ của bạn là gì?;yêu thích;Con vật yêu thích của bạn là gì?;favorite;What is your favorite animal?
+Con vật yêu thích ___ ___ là gì?;của bạn;Con vật yêu thích của bạn là gì?;your;What is your favorite animal?
+Thịt heo ____.;ngon;Thịt heo ngon.;yummy;Pork is yummy.
+____ __ tốt cho sức khoẻ.;Thịt bò;Thịt bò tốt cho sức khoẻ.;Beef;Beef is good for health.
+Thịt bò tốt cho ___ ____.;sức khoẻ;Thịt bò tốt cho sức khoẻ.;health;Beef is good for health.
+Tui thích ___;chó;Tui thích chó.;dogs;I like dogs.
+Bạn thích mèo ___?;mèo;Bạn thích mèo nào?;Which;Which cat do you like?
+Bạn thích ___ nào?;nào;Bạn thích mèo nào?;cat;Which cat do you like?
+Ổng ____ ___ ___ ăn cá ở Việt Nam.;chưa bao giờ;Ổng chưa bao giờ ăn cá ở Việt Nam.;never;He has never eaten fish in Vietnam.
+Bạn thích __ __ Việt Nam không?;đồ ăn;Bạn thích đồ ăn Việt Nam không?;food(cuisine);Do you like Vietnamese food?
+Quán cà phê này có _____ loại nước uống.;nhiều;Quán cà phê này có nhiều loại nước uống.;many (lots of);There's many kinds of drinks in this coffee shop.
+Quán cà phê này có nhiều ____ nước uống.;loại;Quán cà phê này có nhiều loại nước uống.;kinds;There's many kinds of drinks in this coffee shop.
+Cơm ___ ngon.;này;Cơm này ngon.;This;This rice is tasty.
+Anh __ ____ với gia đình;đi chơi;Anh đi chơi với gia đình;hang out;I hang out with family
+Anh đi chơi với ___ ____;gia đình;Anh đi chơi với gia đình;family;I hang out with family
+Anh đi chơi ___ gia đình;với;Anh đi chơi với gia đình;with;I hang out with family
+___ thận trắng;đậu;đậu thận trắng;beans;white kidney beans
+đậu thận _____;trắng;đậu thận trắng;white;white kidney beans
+___ mười lăm;bài;bài mười lăm;lesson;lesson fifteen
+_____ bảy mươi lăm;trang;trang bảy mươi lăm;page;page seventy five
+em ____ __ được không?;đánh ra;em đánh ra được không?;type out;can you type it? 
+____ ____ này anh làm gì?;cuối tuần;cuối tuần này anh làm gì?;weekend;this weekend what will you do?
+cuối tuần này anh đi học ___ __.;nấu ăn;cuối tuần này anh đi học nấu ăn.;cooking;This weekend I will go learn cooking.
+anh phải ___ ____ một số thứ để sẵn sàng cho tuần sau;làm xong;anh phải làm xong một số thứ để sẵn sàng cho tuần sau;finish;I have to finish some things to ready for next week
+anh phải làm xong ___ __ thứ để sẵn sàng cho tuần sau;một số;anh phải làm xong một số thứ để sẵn sàng cho tuần sau;some;I have to finish some things to ready for next week
+anh phải làm xong một số thứ để ___ ____ cho tuần sau;sẵn sàng;anh phải làm xong một số thứ để sẵn sàng cho tuần sau;ready;I have to finish some things to ready for next week
+anh không __ xe máy hả?;sợ;anh không sợ xe máy hả?;afraid;You're not afraid of your bike are you?
+____;chắc;chắc;maybe;maybe
+Anh đã ___ Killing Eve trên Netflix;coi;Anh đã coi Killing Eve trên Netflix;watch;I watched Killing Eve on Netflix
+Anh đã coi Killing Eve ____ Netflix;trên;Anh đã coi Killing Eve trên Netflix;on (through);I watched Killing Eve on Netflix
+Anh đã ăn ___ anh làm ở lớp nấu ăn thứ bảy;món;Anh đã ăn món anh làm ở lớp nấu ăn thứ bảy;dish;I ate the dish I made in cooking class on Saturday
+Anh đã ăn món anh làm ở ___ ___ __ thứ bảy;lớp nấu ăn;Anh đã ăn món anh làm ở lớp nấu ăn thứ bảy;cooking class;I ate the dish I made in cooking class on Saturday
+Anh đã ăn món anh làm ở lớp nấu ăn ___ ___;thứ bảy;Anh đã ăn món anh làm ở lớp nấu ăn thứ bảy;Saturday;I ate the dish I made in cooking class on Saturday
+___ ___;hôm nay;hôm nay;today;today
+___ ___;hôm qua;hôm qua;yesterday;yesterday
+____ ___ anh muốn ăn gì?;ngày mai;ngày mai anh muốn ăn gì?;tomorrow;What do you want to eat tomorrow?
+Anh ___ học tên đồ ăn;cần;Anh cần học tên đồ ăn;need; I need to learn names of the food
+Tôi cần học tiếng ___ ___ ___;Tây Ban Nha;Tôi cần học tiếng Tây Ban Nha;Spain;I need to learn spanish
+mình sẽ __ ___;ôn bài;mình sẽ ôn bài;review;Let's review
+Anh đi Dubai 3 ___ rồi.;lần;Anh đi Dubai 3 lần rồi.;times; I been to Dubai 3 times already
+Anh đi Dubai bằng ___ ___;máy bay;Anh đi Dubai bằng máy bay;plane; I went to Dubai by plane
+anh đi __ __ ăn;đi bộ;anh đi bộ đi ăn;walking;I walk to eat
+anh đi chơi ____ xe hơi;bằng;anh đi chơi bằng xe hơi;by;I went to hangout by car
+anh ___ đi xe máy rồi;quen;anh quen đi xe máy rồi.;get used to;I am already used to the motorbike
+em nói ___ được không?;lại;em nói lại được không?;again;Can you say it again?
+____ ___ anh ____ đi làm bằng xe máy hả?;ngày nào cũng;ngày nào anh cũng đi làm bằng xe máy hả?;every day;You go to work by bike every day?
+___ ___;mấy lần;mấy lần;How many times?;How many times?
+anh không ___;nhớ;anh không nhớ;remember;I don't remember
+anh có ___ ___ không?;câu hỏi;Anh có câu hỏi không?;question;do you have question?
+_____;tháng;tháng;month;month

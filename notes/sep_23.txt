@@ -1,0 +1,31 @@
+Instant Noodles;mì gói
+peanut butter;bơ đậu phộng
+Exuse me/I am sory;Xin lỗi
+You're James Baker, no?;Ông là James Baker, phải không ạ?
+Company(Enterprise);Công ty
+Tourism;Du lịch
+Staff(employee);Nhân viên
+Tourism Company employee;Nhân viên Công ty Du lịch
+I come;Tôi đến
+To pick up;đón
+I came to pick you up;Tôi đến đón ông
+car;xe hơi
+The car is waiting for you over there;Xe hơi đang chờ ông ở dằng kia
+Are you tired?;Ông có mệt không ạ?
+thank you so much;cám ơn cô nhiều
+Invite;Mời
+Please get in the car;Mời ông lên xe
+Go;Đi
+where;đâu
+polite ending;đấy/ạ
+Where are you going?;Anh đi đâu đấy?
+I go to work;Tôi đi làm
+Normal;Bình thường
+I'm normal too;tôi cũng bình thường
+What are you doing these days?;Dạo này anh làm gì?
+I am working as a driver for a travel company;Tôi đang làm tài xế ổ Công ty Du lịch
+foreign (country);nước ngoài
+marketing;tiếp thị
+for;cho
+a(one);một
+I am working as a marketing officer for a foreign company;Tôi đang làm nhân viên tiếp thị cho một công ty nước ngoài

@@ -1,0 +1,41 @@
+when;khi
+wake up;dậy
+when Katie wakes up;khi Katie dậy
+today;hôm nay
+What will you do today?;hôm nay anh sẽ làm gì?
+where?;đâu?
+watch;coi
+where will you watch?;anh sẽ đi coi ở đâu?
+tomorrow;ngày mai
+tomorrow what will you do?;ngày mai anh sẽ làm gì?
+office;văn phòng
+đấy (in southern vietnamese);vậy
+speak;nói
+again;lại
+is that okay?;được không?
+Can you say it again?;Em nói lại được không?
+Where are you going?;anh đi đâu vậy?
+learn;học
+(Countinous marker particle);đang
+I am learning Vietnamese;Anh đang học tiếng Việt.
+software engineer;kĩ sư phần mềm
+work (proffession);làm nghề
+What does he do for work?;Ông ấy làm nghề gì?
+He is a student;Anh ấy là sinh viên
+He is a doctor;Anh ấy là bác sĩ
+He is a teacher;Anh ấy là giáo viên
+I go to the hospital;Tôi đi bệnh viện.
+I go to the airport.;Tôi đi sân bay.
+I go to the post office.;Tôi đi bưu điện.
+She comes to school;Chị ấy dến trường
+She comes to the company;Chị ấy dến công ty
+She comes to your house;Chị ấy dến nhà bạn
+She goes to work;Cô ấy đi làm.
+She goes to school.;Cô ấy đi học.
+She hangs out;Cô ấy đi chơi
+where are you going?;Anh đi dâu đấy?
+What are you doing?;Anh làm gì đấy?
+What are you studying?;Anh học gì đấy?
+They are studying Vietnamese.;Các anh ấy đang học tiếng Việt.
+They are eating rice.;Các anh ấy đang ăn cơm.
+They are working;Các anh ấy đang làm việc.

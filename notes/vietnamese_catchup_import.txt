@@ -1,0 +1,77 @@
+sharp;sắc
+hypotenuse;huyền
+heavy;nặng
+ask;hỏi
+fall;ngã
+ghost;ma
+mother;má
+but;mà
+rice seeling;mạ
+grave;mả
+code;mã
+How are you?;Bạn khoẻ không?
+I'm good;Mình khoẻ.
+I'm not good;Mình không khoẻ.
+Numbers;Số đếm
+one hundred and one;một trăm lẻ một/ một trăm linh một
+Hello friend;Chào bạn
+May I ask;Cho hỏi
+What’s your name?;bạn tên gì?
+My name is Hasanain;Mình tên Hasanain.
+How old are you?;Bạn bao nhiêu tuổi?
+I am 30 years old.;Mình ba mươi tuổi.
+And you?;Còn bạn?
+I am 28 years old.;Mình hai mươi tám tuổi.
+Where do you live?;Chị sống ở đâu?
+I live in district 3;Chị ở Quận 3.
+what nationality are you?;Em là người nước nào?
+I am  canadian;Em là người Canada.
+I am from America;Anh là người Mỹ.
+I am Korean;Tôi là người Hàn Quốc.
+How much is coffee?;Cà phê bao nhiêu tiền?
+Coffee is fifteen thousand;Cà phê mười lăm ngàn.
+What time is it?;Mấy giờ rồi?
+How many years have you lived in Vietnam?;Em sống ở Việt Nam mấy năm rồi?
+I lived in Vietnam for 22 years;Em sống ở Việt Nam 22 năm rồi.
+money;tiền
+how much money;bao nhiêu tiền
+some;mấy
+how much/ how many (~10);mấy
+how much / how many (> 10 any amount);bao nhiêu
+three o'clock;Ba giờ.
+Seven O'clock;Bảy giờ.
+Seven thirty;Bảy giờ ba mươi. Bảy giờ rưỡi
+eight o' six;Tám giờ sáu phút
+Thirty Thousand;Ba mươi ngàn.
+How much is this?;Cái này bao nhiêu tiền?
+dollar;đô
+morning (1 am - 11 am);sáng
+noon (11 am - 2 pm);trưa
+afternoon ( 2 pm - 6 pm);chiều
+evening (6 pm - 12 am);tối
+midnight;đêm
+7:00 a;bảy giờ sáng
+4:30 p;bốn giờ rưỡi chiều
+6:20 p;sáu giờ hai mươi tối
+12:30 pm;mười hai giờ ba mươi trưa
+10:45 pm;mười giờ bốn mươi lăm tối
+9:35 am;chín giờ ba mươi lăm sáng
+2:00 pm;hai giờ chiều
+9:25 am;chín giờ hai mươi sáng
+3:15 am;ba giờ mười lăm sáng
+11:10 am;mười một giờ mười sáng
+give me;Cho tôi
+May I see the menu?;Cho tôi mượn menu.
+borrow;mượn
+Please give me one more cup.;Cho tôi xin thêm một ly
+after school;sau giờ học
+iced coffee without sugar.;cà phê đá không đường
+have;có
+less;ít
+orange-flavoured;nước vị cam
+Does this one have chilli?;Cái này có ớt không?
+Check please!;Tính tiền
+eel;lươn
+have you had breakfast?;anh ăn sáng chưa?
+Do you have a question?;anh có câu hỏi không?
+me too;em cũng vậy nha

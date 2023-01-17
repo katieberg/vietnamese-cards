@@ -1,0 +1,45 @@
+grandfather (pron); ông
+grandmother (pron); bà
+aunt (pron); cô
+uncle younger than father (pron); chú
+aunt-uncle older than father; bác
+child (pron); con
+Younger person (pron);em
+Older Sister (pron);chị
+Friend (pron);bạn
+I;tôi
+me;mình
+People/Person;người
+Country;nước
+language;tiếng
+Name;tên
+Yes;ừ
+Yes;dạ
+Yes;có
+No;không
+Any/Which;nào
+Where;đâu
+What;gì
+Live;ở
+Still/Yet;còn
+from/since;từ
+so;vậy
+also;cũng
+speak;nói
+to be;là
+living;sống
+arrive;đến
+meet;gặp
+hi;chào
+Maybe;có thể
+Can not;không thể
+Very;rất
+strong;khoẻ
+fun;vui
+Okay;được
+Vietnamese;Việt
+America;Mĩ
+Older brother (Pron);Anh
+Some / How many;mấy / bao nhiêu
+Hours;giờ
+Age;tuổi

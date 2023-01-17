@@ -1,0 +1,14 @@
+What did you do yesterday?;hôm qua anh đã làm gì?
+I went to the coffee shop.;anh đã đi quán cà phê.
+What's your name?;anh tên gì?
+Where are you from?;anh là người nước nào?
+I am from the United States.;Tôi là người Mỹ.
+I not from Japan.;Tôi không phải là người Nhật.
+Are you from the US?;Anh là người Mỹ phải không?
+France;Pháp
+Australia;Úc
+Germany;Đức
+Japan;Nhật
+China;Trung Quốc
+Korea;Hàn Quốc
+Yes (in agreement);Vâng
