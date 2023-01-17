@@ -18,9 +18,11 @@ mèo;Bạn thích ___ nào?;Bạn thích mèo nào?;cat;Which cat do you like?
 nào;Bạn thích mèo ___?;Bạn thích mèo nào?;Which;Which cat do you like?
 chưa bao giờ;Ổng ____ ___ ___ ăn cá ở Việt Nam.;Ổng chưa bao giờ ăn cá ở Việt Nam.;never;He has never eaten fish in Vietnam.
 đồ ăn;Bạn thích __ __ Việt Nam không?;Bạn thích đồ ăn Việt Nam không?;food(cuisine);Do you like Vietnamese food?
+Việt Nam;Bạn thích đồ ăn ____ ___ không?;Bạn thích đồ ăn Việt Nam không?;Vietnam;Do you like Vietnamese food?
 nhiều;Quán cà phê này có _____ loại nước uống.;Quán cà phê này có nhiều loại nước uống.;many (lots of);There's many kinds of drinks in this coffee shop.
 loại;Quán cà phê này có nhiều ____ nước uống.;Quán cà phê này có nhiều loại nước uống.;kinds;There's many kinds of drinks in this coffee shop.
 này;Cơm ___ ngon.;Cơm này ngon.;This;This rice is tasty.
+Cơm;___ này ngon.;Cơm này ngon.;Rice;This rice is tasty.
 đi chơi;Anh __ ____ với gia đình;Anh đi chơi với gia đình;hang out;I hang out with family
 gia đình;Anh đi chơi với ___ ____;Anh đi chơi với gia đình;family;I hang out with family
 với;Anh đi chơi ___ gia đình;Anh đi chơi với gia đình;with;I hang out with family
@@ -101,3 +103,9 @@ mập;___;mập;fat;fat
 gấu;___;gấu;bear;bear
 bao nhiêu tuổi;mèo ___ _____ ____?;mèo bao nhiêu tuổi?;How old;How old is your cat?
 tên;Anh ___ gì?;Anh tên gì?;name;what's your name?
+mì;Bạn biết nấu __ không?;Bạn biết nấu mì không?;noodles;Can you make noodles?
+biết nấu;Bạn ____ ___ mì không?;Bạn biết nấu mì không?;know how to cook;Can you make noodles?
+Ở đây;_ ___ bán nhiều loại thịt.;Ở đây bán nhiều loại thịt.;here;Here they sell many types of meat.
+bán;Ở đây bán nhiều loại thịt.;Ở đây bán nhiều loại thịt.;sell;Here they sell many types of meat.
+Rau;___ tươi quá!;Rau tươi quá!;vegetables;The vegetables is so fresh.
+tươi;Rau ____ quá!;Rau tươi quá!;vegetables;The vegetables is so fresh.

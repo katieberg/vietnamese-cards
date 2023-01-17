@@ -18,9 +18,11 @@ mèo [sound:395a90be8f22ca8ec045409b39159208.mp3];Bạn thích ___ nào?;Bạn t
 nào [sound:f737f650b70a5d84e25314cba710b4ed.mp3];Bạn thích mèo ___?;Bạn thích mèo nào? [sound:f6bd6d3bf5869b5b8cbced783550e2c6.mp3];Which;Which cat do you like?
 chưa bao giờ [sound:bb8d1bf510ad7cc07a193e8f6c230bb0.mp3];Ổng ____ ___ ___ ăn cá ở Việt Nam.;Ổng chưa bao giờ ăn cá ở Việt Nam. [sound:5278d903872555ed8dea5fb91d23faee.mp3];never;He has never eaten fish in Vietnam.
 đồ ăn [sound:77620033ad6e42d0dac10905bab757db.mp3];Bạn thích __ __ Việt Nam không?;Bạn thích đồ ăn Việt Nam không? [sound:c1d6a0bb175f1b0683334628fd48fc5c.mp3];food(cuisine);Do you like Vietnamese food?
+Việt Nam [sound:5252d251392fcc2158524dbc917b18bd.mp3];Bạn thích đồ ăn ____ ___ không?;Bạn thích đồ ăn Việt Nam không? [sound:c1d6a0bb175f1b0683334628fd48fc5c.mp3];Vietnam;Do you like Vietnamese food?
 nhiều [sound:bc969820645cc2d1c4684d5321206984.mp3];Quán cà phê này có _____ loại nước uống.;Quán cà phê này có nhiều loại nước uống. [sound:62fe1656553e5664924f8bfdd726cce0.mp3];many (lots of);There's many kinds of drinks in this coffee shop.
 loại [sound:c6e1053d100500d513a54c2efe8724cf.mp3];Quán cà phê này có nhiều ____ nước uống.;Quán cà phê này có nhiều loại nước uống. [sound:62fe1656553e5664924f8bfdd726cce0.mp3];kinds;There's many kinds of drinks in this coffee shop.
 này [sound:9aeead61877f381a7fa02a36460400c0.mp3];Cơm ___ ngon.;Cơm này ngon. [sound:dbe7bbb9f25f53024a086ce96897a92b.mp3];This;This rice is tasty.
+Cơm [sound:57a760456c54c4d851a43563f80be245.mp3];___ này ngon.;Cơm này ngon. [sound:dbe7bbb9f25f53024a086ce96897a92b.mp3];Rice;This rice is tasty.
 đi chơi [sound:985002f31fa87e224f1bb106920c02f8.mp3];Anh __ ____ với gia đình;Anh đi chơi với gia đình [sound:369c2b4dac1f70e895bfadd9428cb4fa.mp3];hang out;I hang out with family
 gia đình [sound:41f98a1e23b0b69f9e8d6cbf2d178871.mp3];Anh đi chơi với ___ ____;Anh đi chơi với gia đình [sound:369c2b4dac1f70e895bfadd9428cb4fa.mp3];family;I hang out with family
 với [sound:de3ae95ba2ab14cf480f49715490ce8b.mp3];Anh đi chơi ___ gia đình;Anh đi chơi với gia đình [sound:369c2b4dac1f70e895bfadd9428cb4fa.mp3];with;I hang out with family
@@ -101,3 +103,9 @@ mập [sound:8456db517e3cfb03edb4792d9315c6c1.mp3];___;mập [sound:8456db517e3c
 gấu [sound:142935a1525ecb43b8436088633d361e.mp3];___;gấu [sound:142935a1525ecb43b8436088633d361e.mp3];bear;bear
 bao nhiêu tuổi [sound:7588cfb7f58f16d6f81e5715fd9aeb4c.mp3];mèo ___ _____ ____?;mèo bao nhiêu tuổi? [sound:2ea338def2f42372d172140fa287ea06.mp3];How old;How old is your cat?
 tên [sound:a2e0cc1d7f82baf3cdcee9224e6425fb.mp3];Anh ___ gì?;Anh tên gì? [sound:ff3110894d93d8920a2b83257ea65af0.mp3];name;what's your name?
+mì [sound:75048645bcf6cd48ab07439b1b02b6f8.mp3];Bạn biết nấu __ không?;Bạn biết nấu mì không? [sound:67c5d041a28ff2acedc6aa0f9bcb025f.mp3];noodles;Can you make noodles?
+biết nấu [sound:e122f17e73d7e589d1287f541b0474e3.mp3];Bạn ____ ___ mì không?;Bạn biết nấu mì không? [sound:67c5d041a28ff2acedc6aa0f9bcb025f.mp3];know how to cook;Can you make noodles?
+Ở đây [sound:6144ff4ee88d07c4eaec4f5c2a67d98f.mp3];_ ___ bán nhiều loại thịt.;Ở đây bán nhiều loại thịt. [sound:6a0f656845ded654dd48ebb37bf9afbf.mp3];here;Here they sell many types of meat.
+bán [sound:9286eeb3c7045689d5ca0fe50f2ae399.mp3];Ở đây bán nhiều loại thịt.;Ở đây bán nhiều loại thịt. [sound:6a0f656845ded654dd48ebb37bf9afbf.mp3];sell;Here they sell many types of meat.
+Rau [sound:7afa26595b4624b9f6f2005b3bbbcccf.mp3];___ tươi quá!;Rau tươi quá! [sound:6453255bd5ca187934f6959dab9aa9a0.mp3];vegetables;The vegetables is so fresh.
+tươi [sound:d9b36a042c5ff3eb8d4202ecb6f04c63.mp3];Rau ____ quá!;Rau tươi quá! [sound:6453255bd5ca187934f6959dab9aa9a0.mp3];vegetables;The vegetables is so fresh.
