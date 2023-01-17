@@ -86,7 +86,7 @@ def main():
             # vn sentence
             vn_sentence_segment = get_new_anki_segment(word_url_map, segments[2])
             new_line = ';'.join([vn_word_segment, segments[1], vn_sentence_segment, segments[3], segments[4]])
-            output.write(f'{new_line}\n')
+            output.write(f'{new_line}')
 
 if __name__ == '__main__':
     main()

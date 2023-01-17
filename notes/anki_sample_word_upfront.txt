@@ -14,8 +14,8 @@ ngon;Thịt heo ____.;Thịt heo ngon.;yummy;Pork is yummy.
 Thịt bò;____ __ tốt cho sức khoẻ.;Thịt bò tốt cho sức khoẻ.;Beef;Beef is good for health.
 sức khoẻ;Thịt bò tốt cho ___ ____.;Thịt bò tốt cho sức khoẻ.;health;Beef is good for health.
 chó;Tui thích ___;Tui thích chó.;dogs;I like dogs.
-mèo;Bạn thích mèo ___?;Bạn thích mèo nào?;Which;Which cat do you like?
-nào;Bạn thích ___ nào?;Bạn thích mèo nào?;cat;Which cat do you like?
+mèo;Bạn thích ___ nào?;Bạn thích mèo nào?;cat;Which cat do you like?
+nào;Bạn thích mèo ___?;Bạn thích mèo nào?;Which;Which cat do you like?
 chưa bao giờ;Ổng ____ ___ ___ ăn cá ở Việt Nam.;Ổng chưa bao giờ ăn cá ở Việt Nam.;never;He has never eaten fish in Vietnam.
 đồ ăn;Bạn thích __ __ Việt Nam không?;Bạn thích đồ ăn Việt Nam không?;food(cuisine);Do you like Vietnamese food?
 nhiều;Quán cà phê này có _____ loại nước uống.;Quán cà phê này có nhiều loại nước uống.;many (lots of);There's many kinds of drinks in this coffee shop.
@@ -97,3 +97,7 @@ sáu mươi;___ ____;sáu mươi;sixty;sixty
 bảy mươi;___ ____;bảy mươi;seventy;seventy
 tám mươi;___ ____;tám mươi;eighty;eighty
 chín mươi;____ ____;chín mươi;ninty;ninty
+mập;___;mập;fat;fat
+gấu;___;gấu;bear;bear
+bao nhiêu tuổi;mèo ___ _____ ____?;mèo bao nhiêu tuổi?;How old;How old is your cat?
+tên;Anh ___ gì?;Anh tên gì?;name;what's your name?
