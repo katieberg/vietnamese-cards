@@ -109,3 +109,13 @@ biết nấu [sound:e122f17e73d7e589d1287f541b0474e3.mp3];Bạn ____ ___ mì kh�
 bán [sound:9286eeb3c7045689d5ca0fe50f2ae399.mp3];Ở đây bán nhiều loại thịt.;Ở đây bán nhiều loại thịt. [sound:6a0f656845ded654dd48ebb37bf9afbf.mp3];sell;Here they sell many types of meat.
 Rau [sound:7afa26595b4624b9f6f2005b3bbbcccf.mp3];___ tươi quá!;Rau tươi quá! [sound:6453255bd5ca187934f6959dab9aa9a0.mp3];vegetables;The vegetables is so fresh.
 tươi [sound:d9b36a042c5ff3eb8d4202ecb6f04c63.mp3];Rau ____ quá!;Rau tươi quá! [sound:6453255bd5ca187934f6959dab9aa9a0.mp3];vegetables;The vegetables is so fresh.
+Chúc [sound:0b33b65daf0bee376b6a72f6e098fb80.mp3];____ mừng năm mới;Chúc mừng năm mới [sound:5764229a7b4554e8894780a1ff5c9dbb.mp3];Wish; Happy new year
+mừng [sound:9f85ff5b4ec5a014ed128cad3066bd79.mp3];Chúc ____ năm mới;Chúc mừng năm mới [sound:5764229a7b4554e8894780a1ff5c9dbb.mp3];Happy; Happy new year
+mới [sound:6eb6fc944bf1c9de70fe6cd1846d1174.mp3];Chúc mừng năm ___;Chúc mừng năm mới [sound:5764229a7b4554e8894780a1ff5c9dbb.mp3];new; Happy new year
+yêu thích của tôi [sound:824e3aad4873628e8ce732c4e0d52f16.mp3];Trà ___ ____ ___ ___ là trà tắc;Trà yêu thích của tôi là trà tắc [sound:fcec22ad5c5445881fb36309f1d2fe61.mp3];Myfavorite;My favorite tea is kumquat tea
+Đúng rồi [sound:26a426d0a5e292b9877117c9a27ad7ef.mp3];____ ___;Đúng rồi [sound:26a426d0a5e292b9877117c9a27ad7ef.mp3];That's right; That's right
+Anh Đồng ý [sound:e5aa7e38a39c8922d44321ada8eac734.mp3];___ ____ _;Anh Đồng ý [sound:e5aa7e38a39c8922d44321ada8eac734.mp3];I agree;I agree
+năm ngoái [sound:0adffd657fbead1e0807f5f75e75923c.mp3];hồi năm tháng mưởi một ___ _____;hồi năm tháng mưởi một năm ngoái [sound:ca5edd3b170bd3acf2be26cac869e004.mp3];last year (for year only);in november last year
+năm trước [sound:31ba77321d6638d9ddad1c2a84ba13d8.mp3];hồi năm tháng mưởi một ___ _____;hồi năm tháng mưởi một năm trước [sound:1ffaf4290daee12e7feac186f9ec1f9b.mp3];last year (last for month, year);in november last year
+chợ [sound:3e595cd4102ad0ae2357eeeb24e5f80a.mp3];Tôi đi ___;Tôi đi chợ [sound:2d04bf9ba6ec0ddadbb2f3bc1688aeeb.mp3];the market;I went to the market
+chờ [sound:b42a47c16b30a354b90a7538d46bf1bd.mp3];Anh ___ em;Anh chờ em [sound:2ade77cbdda0ada58325833152ebdc21.mp3];wait;I wait for you

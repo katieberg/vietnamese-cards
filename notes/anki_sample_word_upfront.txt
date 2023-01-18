@@ -109,3 +109,13 @@ biết nấu;Bạn ____ ___ mì không?;Bạn biết nấu mì không?;know how 
 bán;Ở đây bán nhiều loại thịt.;Ở đây bán nhiều loại thịt.;sell;Here they sell many types of meat.
 Rau;___ tươi quá!;Rau tươi quá!;vegetables;The vegetables is so fresh.
 tươi;Rau ____ quá!;Rau tươi quá!;vegetables;The vegetables is so fresh.
+Chúc;____ mừng năm mới;Chúc mừng năm mới;Wish; Happy new year
+mừng;Chúc ____ năm mới;Chúc mừng năm mới;Happy; Happy new year
+mới;Chúc mừng năm ___;Chúc mừng năm mới;new; Happy new year
+yêu thích của tôi;Trà ___ ____ ___ ___ là trà tắc;Trà yêu thích của tôi là trà tắc;Myfavorite;My favorite tea is kumquat tea
+Đúng rồi;____ ___;Đúng rồi;That's right; That's right
+Anh Đồng ý;___ ____ _;Anh Đồng ý;I agree;I agree
+năm ngoái;hồi năm tháng mưởi một ___ _____;hồi năm tháng mưởi một năm ngoái;last year (for year only);in november last year
+năm trước;hồi năm tháng mưởi một ___ _____;hồi năm tháng mưởi một năm trước;last year (last for month, year);in november last year
+chợ;Tôi đi ___;Tôi đi chợ;the market;I went to the market
+chờ;Anh ___ em;Anh chờ em;wait;I wait for you
