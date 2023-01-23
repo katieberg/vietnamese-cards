@@ -51,7 +51,7 @@ Tây Ban Nha;Tôi cần học tiếng ___ ___ ___;Tôi cần học tiếng Tây 
 ôn bài;mình sẽ __ ___;mình sẽ ôn bài;review;Let's review
 lần;Anh đi Dubai 3 ___ rồi.;Anh đi Dubai 3 lần rồi.;times; I been to Dubai 3 times already
 máy bay;Anh đi Dubai bằng ___ ___;Anh đi Dubai bằng máy bay;plane; I went to Dubai by plane
-đi bộ;anh đi __ __ ăn;anh đi bộ đi ăn;walking;I walk to eat
+đi bộ;anh __ __ đi ăn;anh đi bộ đi ăn;walking;I walk to eat
 bằng;anh đi chơi ____ xe hơi;anh đi chơi bằng xe hơi;by;I went to hangout by car
 quen;anh ___ đi xe máy rồi;anh quen đi xe máy rồi.;get used to;I am already used to the motorbike
 lại;em nói ___ được không?;em nói lại được không?;again;Can you say it again?
@@ -119,3 +119,20 @@ năm ngoái;hồi năm tháng mưởi một ___ _____;hồi năm tháng mưởi 
 năm trước;hồi năm tháng mưởi một ___ _____;hồi năm tháng mưởi một năm trước;last year (last for month, year);in november last year
 chợ;Tôi đi ___;Tôi đi chợ;the market;I went to the market
 chờ;Anh ___ em;Anh chờ em;wait;I wait for you
+lắm;Bún ở Sài Gòn không ngon ___.;Bún ở Sài Gòn không ngon lắm.;very;Rice vermicelli in Saigon is not very tasty.
+Bún;___ ở Sài Gòn không ngon lắm.;Bún ở Sài Gòn không ngon lắm.;Rice vermicelli;Rice vermicelli in Saigon is not very tasty.
+trái;Tui muốn mua năm ____ trứng.;Tui muốn mua năm trái trứng.;pieces (classifier for eggs);I wanna buy 5 eggs.
+mua;Tui muốn ___ năm trái trứng.;Tui muốn mua năm trái trứng.;buy;I wanna buy 5 eggs.
+muốn;Tui ____ mua năm trái trứng.;Tui muốn mua năm trái trứng.;want;I wanna buy 5 eggs.
+uống;Bạn muốn ____ cà phê không?;Bạn muốn uống cà phê không?;drink;Would you like to drink coffee?
+cà phê;Bạn muốn uống __ ___ không?;Bạn muốn uống cà phê không?;coffee;Would you like to drink coffee?
+bao nhiêu tiền;Nước ___ _____ ____?;Nước bao nhiêu tiền?;How much is...;How much is the water?
+đang làm;Tui ____ ___ nước cam.;Tui đang làm nước cam.;making (present continuous);I'm making orange juice.
+nước cam;Tui đang làm ____ ___.;Tui đang làm nước cam.;orange juice;I'm making orange juice.
+sữa;Ba ly ___.;Ba ly sữa.;milk;3 glasses of milk.
+ly;Ba __ sữa.;Ba ly sữa.;glass;3 glasses of milk.
+ăn;Chị __ ớt được không?;Chị ăn ớt được không?;eat;Can you eat chilli?
+ớt;Chị ăn __ được không?;Chị ăn ớt được không?;chilli;Can you eat chilli?
+được;Chị ăn ớt ____ không?;Chị ăn ớt được không?;can;Can you eat chilli?
+đá;Em muốn thêm __ không?;Em muốn thêm đá không?;ice;Do you want to add more ice?
+thêm;Em muốn ____ đá không?;Em muốn thêm đá không?;increase/add more;Do you want to add more ice?

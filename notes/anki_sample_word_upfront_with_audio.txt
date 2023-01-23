@@ -51,7 +51,7 @@ Tây Ban Nha [sound:023b87c1f93baa22a07d314510695635.mp3];Tôi cần học tiế
 ôn bài [sound:45cb379f1ae6dc5107de14ae5c63b3c9.mp3];mình sẽ __ ___;mình sẽ ôn bài [sound:e9b25d9329670ab509e16789d9353141.mp3];review;Let's review
 lần [sound:e8abe630ebc78852f6baaa853babe19e.mp3];Anh đi Dubai 3 ___ rồi.;Anh đi Dubai 3 lần rồi. [sound:7df2ad76cc5c2d66a0e32775f18b5329.mp3];times; I been to Dubai 3 times already
 máy bay [sound:83aac2703612868ad18d720e421dd665.mp3];Anh đi Dubai bằng ___ ___;Anh đi Dubai bằng máy bay [sound:85c3bc26e790c08041e1427e03deec78.mp3];plane; I went to Dubai by plane
-đi bộ [sound:8df02abe42c60517c45a3fcde694d6ff.mp3];anh đi __ __ ăn;anh đi bộ đi ăn [sound:21f48dbc27beece77e7e8702c63b89fe.mp3];walking;I walk to eat
+đi bộ [sound:8df02abe42c60517c45a3fcde694d6ff.mp3];anh __ __ đi ăn;anh đi bộ đi ăn [sound:21f48dbc27beece77e7e8702c63b89fe.mp3];walking;I walk to eat
 bằng [sound:25e4c2053940a49615bfb7dff5ce0900.mp3];anh đi chơi ____ xe hơi;anh đi chơi bằng xe hơi [sound:c154b3782f647e403d72c94608c28445.mp3];by;I went to hangout by car
 quen [sound:c72f0d6399aa5c718b48effb5ff4a3a1.mp3];anh ___ đi xe máy rồi;anh quen đi xe máy rồi. [sound:8ce8871c60846b89289509d95b2b2514.mp3];get used to;I am already used to the motorbike
 lại [sound:3259dfef3de4fd0bfec158ff40ee1154.mp3];em nói ___ được không?;em nói lại được không? [sound:2f1672b9afc7039b337d12a273cd17b3.mp3];again;Can you say it again?
@@ -119,3 +119,20 @@ năm ngoái [sound:0adffd657fbead1e0807f5f75e75923c.mp3];hồi năm tháng mư�
 năm trước [sound:31ba77321d6638d9ddad1c2a84ba13d8.mp3];hồi năm tháng mưởi một ___ _____;hồi năm tháng mưởi một năm trước [sound:1ffaf4290daee12e7feac186f9ec1f9b.mp3];last year (last for month, year);in november last year
 chợ [sound:3e595cd4102ad0ae2357eeeb24e5f80a.mp3];Tôi đi ___;Tôi đi chợ [sound:2d04bf9ba6ec0ddadbb2f3bc1688aeeb.mp3];the market;I went to the market
 chờ [sound:b42a47c16b30a354b90a7538d46bf1bd.mp3];Anh ___ em;Anh chờ em [sound:2ade77cbdda0ada58325833152ebdc21.mp3];wait;I wait for you
+lắm [sound:b0e4153d83a9f288926bc1af4c66fcb4.mp3];Bún ở Sài Gòn không ngon ___.;Bún ở Sài Gòn không ngon lắm. [sound:b79b6854bcbe49d8a805814ea7dd7136.mp3];very;Rice vermicelli in Saigon is not very tasty.
+Bún [sound:10dbcd74c7f68274454d14c7b41bba20.mp3];___ ở Sài Gòn không ngon lắm.;Bún ở Sài Gòn không ngon lắm. [sound:b79b6854bcbe49d8a805814ea7dd7136.mp3];Rice vermicelli;Rice vermicelli in Saigon is not very tasty.
+trái [sound:014b5a19af61850ca93ce9bebc0a20fd.mp3];Tui muốn mua năm ____ trứng.;Tui muốn mua năm trái trứng. [sound:87a21cc25a93008e675a6137704d620e.mp3];pieces (classifier for eggs);I wanna buy 5 eggs.
+mua [sound:3f9ac4d0e6036cebb2e96011e18fc41f.mp3];Tui muốn ___ năm trái trứng.;Tui muốn mua năm trái trứng. [sound:87a21cc25a93008e675a6137704d620e.mp3];buy;I wanna buy 5 eggs.
+muốn [sound:4b4340060fc90907a09ac1c306a6be13.mp3];Tui ____ mua năm trái trứng.;Tui muốn mua năm trái trứng. [sound:87a21cc25a93008e675a6137704d620e.mp3];want;I wanna buy 5 eggs.
+uống [sound:6fb0dcefefb0059abbc95bc3d2be095e.mp3];Bạn muốn ____ cà phê không?;Bạn muốn uống cà phê không? [sound:2182b8c0aebb24766d13218e77151de6.mp3];drink;Would you like to drink coffee?
+cà phê [sound:b539608b2f75210365571e592a02c6e5.mp3];Bạn muốn uống __ ___ không?;Bạn muốn uống cà phê không? [sound:2182b8c0aebb24766d13218e77151de6.mp3];coffee;Would you like to drink coffee?
+bao nhiêu tiền [sound:edcbd10fab1e6270dbeff89c100c7cd0.mp3];Nước ___ _____ ____?;Nước bao nhiêu tiền? [sound:4c9c361a0e23617f980b39f08c38e034.mp3];How much is...;How much is the water?
+đang làm [sound:db30fe379f3b88cd8014f9e65c65600f.mp3];Tui ____ ___ nước cam.;Tui đang làm nước cam. [sound:8490069ea2ed6e4fc68692a2ea62ab06.mp3];making (present continuous);I'm making orange juice.
+nước cam [sound:d6875457e78052596b8b25bd663c1d4b.mp3];Tui đang làm ____ ___.;Tui đang làm nước cam. [sound:8490069ea2ed6e4fc68692a2ea62ab06.mp3];orange juice;I'm making orange juice.
+sữa [sound:f99fb9ca2fd4123cacd5fa999fb0361f.mp3];Ba ly ___.;Ba ly sữa. [sound:dda50008ebfb73dfabcdc92f2c761f86.mp3];milk;3 glasses of milk.
+ly [sound:1fab0fad4fa01c4db56ff3624d6651e2.mp3];Ba __ sữa.;Ba ly sữa. [sound:dda50008ebfb73dfabcdc92f2c761f86.mp3];glass;3 glasses of milk.
+ăn [sound:47e2e0743377d3e58ba23a951474469a.mp3];Chị __ ớt được không?;Chị ăn ớt được không? [sound:9306f41fcb0c5c50e933b75d52cbad4c.mp3];eat;Can you eat chilli?
+ớt [sound:0b895b5298a88a45e07dfbe82b63959f.mp3];Chị ăn __ được không?;Chị ăn ớt được không? [sound:9306f41fcb0c5c50e933b75d52cbad4c.mp3];chilli;Can you eat chilli?
+được [sound:49232b01fac892a311b32253e0486d3b.mp3];Chị ăn ớt ____ không?;Chị ăn ớt được không? [sound:9306f41fcb0c5c50e933b75d52cbad4c.mp3];can;Can you eat chilli?
+đá [sound:47d22bece112bdce73588bf29d73b370.mp3];Em muốn thêm __ không?;Em muốn thêm đá không? [sound:7ec9db051ec2243e169069a5fe107fa1.mp3];ice;Do you want to add more ice?
+thêm [sound:c2f10a7ba8d5053ac8890139a65eab90.mp3];Em muốn ____ đá không?;Em muốn thêm đá không? [sound:7ec9db051ec2243e169069a5fe107fa1.mp3];increase/add more;Do you want to add more ice?
