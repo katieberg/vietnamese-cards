@@ -136,3 +136,14 @@ ly [sound:1fab0fad4fa01c4db56ff3624d6651e2.mp3];Ba __ sữa.;Ba ly sữa. [sound
 được [sound:49232b01fac892a311b32253e0486d3b.mp3];Chị ăn ớt ____ không?;Chị ăn ớt được không? [sound:9306f41fcb0c5c50e933b75d52cbad4c.mp3];can;Can you eat chilli?
 đá [sound:47d22bece112bdce73588bf29d73b370.mp3];Em muốn thêm __ không?;Em muốn thêm đá không? [sound:7ec9db051ec2243e169069a5fe107fa1.mp3];ice;Do you want to add more ice?
 thêm [sound:c2f10a7ba8d5053ac8890139a65eab90.mp3];Em muốn ____ đá không?;Em muốn thêm đá không? [sound:7ec9db051ec2243e169069a5fe107fa1.mp3];increase/add more;Do you want to add more ice?
+Cho [sound:d887837fd056e53fc32c0fbcf238e417.mp3];___ em thêm đường nha!;Cho em thêm đường nha! [sound:280bddafa4722557af79007242f3fe77.mp3];Give;Can I have more sugar?
+tô. [sound:8091b31cc11a2c8c450f70ea54a81bc7.mp3];Tui cần mua __ mới.;Tui cần mua tô mới. [sound:6ba8e0bcf1d188442b71d8d9e639226c.mp3];bowl;I need to buy new bowls.
+Tối hôm qua [sound:941f2154eff71379ab3f23fabafaddc1.mp3];___ ___ ___ anh uống mấy chai bia?;Tối hôm qua anh uống mấy chai bia? [sound:2153442916e5ce7698910ecabc744ccc.mp3];last night;How many bottles of beer did you drink last night?
+chai [sound:ff6b83ad02b7b081a6a51a4dd1531b0c.mp3];Tối hôm qua anh uống mấy ____ bia?;Tối hôm qua anh uống mấy chai bia? [sound:2153442916e5ce7698910ecabc744ccc.mp3];bottle;How many bottles of beer did you drink last night?
+lon [sound:a58cf2e1b306be5b202e185c1030c444.mp3];3 ___ bia;3 lon bia [sound:9e3c795f68bf6c96d6ecf0be45cb79b6.mp3];can (container);3 cans of beer
+ở đâu? [sound:d49795ea9c911f1da17379782ece3bec.mp3];Hôm qua, bạn đã ăn _ ___?;Hôm qua, bạn đã ăn ở đâu? [sound:f40a7a69cdd40ae379da2f9b9704649b.mp3];where;Yesterday, where did you eat?
+nhà [sound:897e3823b929db24680100b01bc55da7.mp3];Mình đã ăn ở ___.;Mình đã ăn ở nhà. [sound:acfdf9565498dcef0876f833f370a420.mp3];home;I ate at home.
+Bây giờ [sound:98bce8514dbe157bfdf1eb7869f95d80.mp3];___ ___, bạn đang làm gì?;Bây giờ, bạn đang làm gì? [sound:8540086f671b6c7ac78d491af8a22b94.mp3];now;What are you doing now?
+học [sound:88ee307f9a1c43b101011fa586cb2517.mp3];Mình đang ___ tiếng Việt.;Mình đang học tiếng Việt. [sound:0c3fb2eefbbf2c4ad18f1e97b69c3458.mp3];learn;I’m learning Vietnamese.
+lúc [sound:ba54efb1031e583d884dd26ff29336a8.mp3];Mình sẽ đi làm ___ 8 giờ sáng.;Mình sẽ đi làm lúc 8 giờ sáng. [sound:98c334f89ec7d0a211f74579103f0022.mp3];At (time);I’ll go to work at 8am.
+mấy giờ [sound:f05d35e450f49ed54cb735861fa16e08.mp3];___ ___ anh ăn?;mấy giờ anh ăn? [sound:8fc6084112dba74713d60049986392ab.mp3];what time;what time will you eat?
