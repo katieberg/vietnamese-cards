@@ -144,6 +144,13 @@ lon [sound:a58cf2e1b306be5b202e185c1030c444.mp3];3 ___ bia;3 lon bia [sound:9e3c
 ở đâu? [sound:d49795ea9c911f1da17379782ece3bec.mp3];Hôm qua, bạn đã ăn _ ___?;Hôm qua, bạn đã ăn ở đâu? [sound:f40a7a69cdd40ae379da2f9b9704649b.mp3];where;Yesterday, where did you eat?
 nhà [sound:897e3823b929db24680100b01bc55da7.mp3];Mình đã ăn ở ___.;Mình đã ăn ở nhà. [sound:acfdf9565498dcef0876f833f370a420.mp3];home;I ate at home.
 Bây giờ [sound:98bce8514dbe157bfdf1eb7869f95d80.mp3];___ ___, bạn đang làm gì?;Bây giờ, bạn đang làm gì? [sound:8540086f671b6c7ac78d491af8a22b94.mp3];now;What are you doing now?
-học [sound:88ee307f9a1c43b101011fa586cb2517.mp3];Mình đang ___ tiếng Việt.;Mình đang học tiếng Việt. [sound:0c3fb2eefbbf2c4ad18f1e97b69c3458.mp3];learn;I’m learning Vietnamese.
-lúc [sound:ba54efb1031e583d884dd26ff29336a8.mp3];Mình sẽ đi làm ___ 8 giờ sáng.;Mình sẽ đi làm lúc 8 giờ sáng. [sound:98c334f89ec7d0a211f74579103f0022.mp3];At (time);I’ll go to work at 8am.
+học [sound:88ee307f9a1c43b101011fa586cb2517.mp3];Mình đang ___ tiếng Việt.;Mình đang học tiếng Việt. [sound:0c3fb2eefbbf2c4ad18f1e97b69c3458.mp3];learn;I'm learning Vietnamese.
+lúc [sound:ba54efb1031e583d884dd26ff29336a8.mp3];Mình sẽ đi làm ___ 8 giờ sáng.;Mình sẽ đi làm lúc 8 giờ sáng. [sound:98c334f89ec7d0a211f74579103f0022.mp3];At (time);I'll go to work at 8am.
 mấy giờ [sound:f05d35e450f49ed54cb735861fa16e08.mp3];___ ___ anh ăn?;mấy giờ anh ăn? [sound:8fc6084112dba74713d60049986392ab.mp3];what time;what time will you eat?
+Đi thẳng [sound:ff19cbc9283f82088f9c53ef4a3d9c39.mp3];__ _____;Đi thẳng [sound:ff19cbc9283f82088f9c53ef4a3d9c39.mp3];Go straight;Go straight
+Đi chậm lại [sound:e4ee52baa781b84682263cf0d90d6e19.mp3];__ ____ ___;Đi chậm lại [sound:e4ee52baa781b84682263cf0d90d6e19.mp3];Go slowly;Go slowly
+Quẹo trái [sound:e9769f47c19a5da0c7f8a12420d41b54.mp3];____ ____;Quẹo trái [sound:e9769f47c19a5da0c7f8a12420d41b54.mp3];Turn left;Turn left
+Quẹo phải [sound:d61c8482a9bc2bd0866182d5ea206a58.mp3];____ ____;Quẹo phải [sound:d61c8482a9bc2bd0866182d5ea206a58.mp3];Turn right;Turn right
+Quay lại [sound:a50e0a408a8d7aee78798d1329b93b36.mp3];____ ___;Quay lại [sound:a50e0a408a8d7aee78798d1329b93b36.mp3];Turn around;Turn around
+Dừng lại [sound:a50d788b06f606453c069be26aa68fec.mp3];____ ___;Dừng lại [sound:a50d788b06f606453c069be26aa68fec.mp3];Stop!;Stop!
+ở kia [sound:e0cfe34fbaf71a5ff8b817e601722c76.mp3];Dừng _ ___;Dừng ở kia [sound:8c8da821414eed1aac02826fcd27e424.mp3];Stop there;Stop there

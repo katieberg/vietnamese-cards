@@ -144,6 +144,13 @@ lon;3 ___ bia;3 lon bia;can (container);3 cans of beer
 ở đâu?;Hôm qua, bạn đã ăn _ ___?;Hôm qua, bạn đã ăn ở đâu?;where;Yesterday, where did you eat?
 nhà;Mình đã ăn ở ___.;Mình đã ăn ở nhà.;home;I ate at home.
 Bây giờ;___ ___, bạn đang làm gì?;Bây giờ, bạn đang làm gì?;now;What are you doing now?
-học;Mình đang ___ tiếng Việt.;Mình đang học tiếng Việt.;learn;I’m learning Vietnamese.
-lúc;Mình sẽ đi làm ___ 8 giờ sáng.;Mình sẽ đi làm lúc 8 giờ sáng.;At (time);I’ll go to work at 8am.
+học;Mình đang ___ tiếng Việt.;Mình đang học tiếng Việt.;learn;I'm learning Vietnamese.
+lúc;Mình sẽ đi làm ___ 8 giờ sáng.;Mình sẽ đi làm lúc 8 giờ sáng.;At (time);I'll go to work at 8am.
 mấy giờ;___ ___ anh ăn?;mấy giờ anh ăn?;what time;what time will you eat?
+Đi thẳng;__ _____;Đi thẳng;Go straight;Go straight
+Đi chậm lại;__ ____ ___;Đi chậm lại;Go slowly;Go slowly
+Quẹo trái;____ ____;Quẹo trái;Turn left;Turn left
+Quẹo phải;____ ____;Quẹo phải;Turn right;Turn right
+Quay lại;____ ___;Quay lại;Turn around;Turn around
+Dừng lại;____ ___;Dừng lại;Stop!;Stop!
+ở kia;Dừng _ ___;Dừng ở kia;Stop there;Stop there
