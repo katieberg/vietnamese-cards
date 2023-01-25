@@ -154,3 +154,20 @@ Quẹo phải [sound:d61c8482a9bc2bd0866182d5ea206a58.mp3];____ ____;Quẹo ph�
 Quay lại [sound:a50e0a408a8d7aee78798d1329b93b36.mp3];____ ___;Quay lại [sound:a50e0a408a8d7aee78798d1329b93b36.mp3];Turn around;Turn around
 Dừng lại [sound:a50d788b06f606453c069be26aa68fec.mp3];____ ___;Dừng lại [sound:a50d788b06f606453c069be26aa68fec.mp3];Stop!;Stop!
 ở kia [sound:e0cfe34fbaf71a5ff8b817e601722c76.mp3];Dừng _ ___;Dừng ở kia [sound:8c8da821414eed1aac02826fcd27e424.mp3];Stop there;Stop there
+Địa chỉ [sound:1bd7c8d6a556d572c7c1fbd33f2de7f9.mp3];___ ___ của bạn là gì?;Địa chỉ của bạn là gì? [sound:2e1ebe4e1943871f052aab38fb060d1a.mp3];address;what is your address?
+Thành phố [sound:de6416770c53cc74c904838018e6429d.mp3];Tôi sống ở _____ ___ Hồ Chí Minh;Tôi sống ở Thành phố Hồ Chí Minh [sound:e8a76d4cb0fec57eefb7bfda705fe6c7.mp3];city;I live in Ho Chi Minh City
+đường [sound:aeb81f55fe2d9c1cd0893d4e6c81fa4e.mp3];Tôi sống trên _____ Trương Định;Tôi sống trên đường Trương Định [sound:823d736afe302ccfc85cbab94352c3d6.mp3];street;I live on Truong Dinh street
+phường [sound:59c75ee6c0b6cea7adb60b86625515cf.mp3];Tôi sống ở ______ Võ Thị Sáu;Tôi sống ở phường Võ Thị Sáu [sound:367c1bd5a08b6400427a121f31c65d44.mp3];ward;I live in ward Vo Thi Sau
+số [sound:d8a968f2f6cb8209c84fb99be14ea007.mp3];Tôi sống ở __ 32A;Tôi sống ở số 32A [sound:5fbab9d3d6880681805c56f4fd1cc114.mp3];number;I live at number 32A
+Điện thoại [sound:1bc63b0214a51d94dedb8738898544a0.mp3];____ _____ công ty của anh số mấy?;Điện thoại công ty của anh số mấy? [sound:22e4e992de7c1b9e51283d5a71d55166.mp3];phone;What is your company phone number?
+khô [sound:cc989c8a938fcd62fa14d39407e88d71.mp3];dừa ___;dừa khô [sound:8f3a0d3d3673a3a98f5830ccb8133319.mp3];dry;dry coconut
+Ả Rập [sound:df467b1e15ad1c3bf71448338ef51641.mp3];Bạn có thể nói tiếng _ ___ không?;Bạn có thể nói tiếng Ả Rập không? [sound:f8b505a093733990d7e45c8b7fc0e8b4.mp3];Can you speak Arabic?;Can you speak Arabic?
+sân bay [sound:e7c62f4e4bab6a1927b363ff762d7f39.mp3];Tôi đang đến ___ ___;Tôi đang đến sân bay [sound:42f12d7fc56db19ddab23ef6471f3fa2.mp3];I am going to the airport;I am going to the airport
+câu [sound:926435bea1da9c7e22b1679d99baac85.mp3];trả lời với ___ hoàn chỉnh;trả lời với câu hoàn chỉnh [sound:49f45f0ef636a400df6967053d8b5086.mp3];sentence;sentence
+hỏi [sound:a205bbd01157636b1198cc039ccbf058.mp3];___ tôi một câu hỏi;hỏi tôi một câu hỏi [sound:540c926d1b3354e38f4a5034b8489eb9.mp3];ask;ask me a question
+câu hỏi [sound:6bc40ea6d6b58ea41044fbee6edab7e2.mp3];hỏi tôi một ___ ___;hỏi tôi một câu hỏi [sound:540c926d1b3354e38f4a5034b8489eb9.mp3];question;ask me a question
+bao lâu [sound:e3695c0fa7cd5c39ae6de0e74e1c5c74.mp3];___ ___;bao lâu [sound:e3695c0fa7cd5c39ae6de0e74e1c5c74.mp3];how long;how long
+đời [sound:222872eea84d36de816f938cea120fd4.mp3];một lần trong ___;một lần trong đời [sound:edaf01142c8f800ad5081bc510cccede.mp3];life (existance);once in my life
+rưỡi [sound:0c431d67b454a5bdbedc83fcb96506bc.mp3];chín giờ ____ em làm việc.;chín giờ rưỡi em làm việc. [sound:ea682fe194e44a547a9fd70e4882d22e.mp3];half;I work at 9:30
+cầu [sound:27696e0470166344a36eaa1bc70e0afc.mp3];___;cầu [sound:27696e0470166344a36eaa1bc70e0afc.mp3];bridge;bridge
+hỏi [sound:a205bbd01157636b1198cc039ccbf058.mp3];hỏi;hỏi [sound:a205bbd01157636b1198cc039ccbf058.mp3];ask;ask

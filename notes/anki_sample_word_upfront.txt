@@ -154,3 +154,20 @@ Quẹo phải;____ ____;Quẹo phải;Turn right;Turn right
 Quay lại;____ ___;Quay lại;Turn around;Turn around
 Dừng lại;____ ___;Dừng lại;Stop!;Stop!
 ở kia;Dừng _ ___;Dừng ở kia;Stop there;Stop there
+Địa chỉ;___ ___ của bạn là gì?;Địa chỉ của bạn là gì?;address;what is your address?
+Thành phố;Tôi sống ở _____ ___ Hồ Chí Minh;Tôi sống ở Thành phố Hồ Chí Minh;city;I live in Ho Chi Minh City
+đường;Tôi sống trên _____ Trương Định;Tôi sống trên đường Trương Định;street;I live on Truong Dinh street
+phường;Tôi sống ở ______ Võ Thị Sáu;Tôi sống ở phường Võ Thị Sáu;ward;I live in ward Vo Thi Sau
+số;Tôi sống ở __ 32A;Tôi sống ở số 32A;number;I live at number 32A
+Điện thoại;____ _____ công ty của anh số mấy?;Điện thoại công ty của anh số mấy?;phone;What is your company phone number?
+khô;dừa ___;dừa khô;dry;dry coconut
+Ả Rập;Bạn có thể nói tiếng _ ___ không?;Bạn có thể nói tiếng Ả Rập không?;Can you speak Arabic?;Can you speak Arabic?
+sân bay;Tôi đang đến ___ ___;Tôi đang đến sân bay;I am going to the airport;I am going to the airport
+câu;trả lời với ___ hoàn chỉnh;trả lời với câu hoàn chỉnh;sentence;sentence
+hỏi;___ tôi một câu hỏi;hỏi tôi một câu hỏi;ask;ask me a question
+câu hỏi;hỏi tôi một ___ ___;hỏi tôi một câu hỏi;question;ask me a question
+bao lâu;___ ___;bao lâu;how long;how long
+đời;một lần trong ___;một lần trong đời;life (existance);once in my life
+rưỡi;chín giờ ____ em làm việc.;chín giờ rưỡi em làm việc.;half;I work at 9:30
+cầu;___;cầu;bridge;bridge
+hỏi;hỏi;hỏi;ask;ask
