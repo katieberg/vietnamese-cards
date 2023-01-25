@@ -169,3 +169,18 @@ bao lâu [sound:e3695c0fa7cd5c39ae6de0e74e1c5c74.mp3];___ ___;bao lâu [sound:e3
 đời [sound:222872eea84d36de816f938cea120fd4.mp3];một lần trong ___;một lần trong đời [sound:edaf01142c8f800ad5081bc510cccede.mp3];life (existance);once in my life
 rưỡi [sound:0c431d67b454a5bdbedc83fcb96506bc.mp3];chín giờ ____ em làm việc.;chín giờ rưỡi em làm việc. [sound:ea682fe194e44a547a9fd70e4882d22e.mp3];half;I work at 9:30
 cầu [sound:27696e0470166344a36eaa1bc70e0afc.mp3];___;cầu [sound:27696e0470166344a36eaa1bc70e0afc.mp3];bridge;bridge
+nhạt [sound:20cc1a67cacee5a2fd10b9ca77320915.mp3];đỏ ____;đỏ nhạt [sound:8ce81611ad40c44ad41aff1688116cc6.mp3];light red;light
+nhẹ [sound:c74ae3454146d5a0cbdb66b0ec08af7c.mp3];đỏ ___;đỏ nhẹ [sound:58022c270e6dc5539968f32a28af646a.mp3];light red;light
+đậm [sound:078ff583611df93eff0027161c9de814.mp3];ghi ___;ghi đậm [sound:22f635ccbbe021403808359af7c6e670.mp3];dark grey;dark grey
+màu [sound:4f0c9d8cc4f2a3bf74a6fcefeef07ddb.mp3];___;màu [sound:4f0c9d8cc4f2a3bf74a6fcefeef07ddb.mp3];color;color
+bạc [sound:19b5ea3fe8e2ce6e317e58fc3808d92d.mp3];màu ___;màu bạc [sound:28706bf565a7f5b17f58a6e98d4064c4.mp3];silver;silver
+trắng [sound:ff74ccef3eb28719e4c1dbc35ba83462.mp3];màu _____;màu trắng [sound:32a742646cebeee6dcc1670e822ba8a1.mp3];white;white
+đen [sound:ed588684921cdf60c7a35519289572ca.mp3];màu ___;màu đen [sound:5c4e489d07adf5aacfb11b564a3233cc.mp3];black;black
+đỏ [sound:275fb2938767048edddf641cc2bf6b1d.mp3];màu __;màu đỏ [sound:4dd3022194aa5886f8d13ed4230faa5e.mp3];red;red
+nâu [sound:82de89f70e177884a5ba5a7ff0c8df2e.mp3];màu ___;màu nâu [sound:f8335a58fec736233148bbeb97e14a81.mp3];brown;brown
+cam [sound:f548cfd5e87553989fe2e79cf994dcb0.mp3];màu ___;màu cam [sound:15460953e8afbfbb23cfbf2319a81f15.mp3];orange;orange
+vàng [sound:1c033cf98154b5f4ffdf4a72ba075318.mp3];màu ____;màu vàng [sound:d00c045ccac593dc5512b6bc43904a1a.mp3];yellow, gold;yellow, gold
+ô liu [sound:74dea7ec7462f2483bf73d84103583e4.mp3];_ ___;ô liu [sound:74dea7ec7462f2483bf73d84103583e4.mp3];olive;olive
+xanh lá [sound:1af51fd1a8ab81819be6164ef1b53002.mp3];màu ____ __;màu xanh lá [sound:f9c01a609e8195a940b0674324760d74.mp3];green;green
+xám [sound:fc3b8f3fcc17825549c8e65441fec60b.mp3];màu ___;màu xám [sound:197b9e592f5ef910efc8b99cfc265563.mp3];gray;gray
+xanh da trời [sound:cb4fd97a993bf16dda425f4b32a7ca4f.mp3];màu ____ __ ____;màu xanh da trời [sound:53fb23dada6eb5cbd20485e7a205dee8.mp3];blue;blue

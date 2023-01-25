@@ -169,3 +169,18 @@ bao lâu;___ ___;bao lâu;how long;how long
 đời;một lần trong ___;một lần trong đời;life (existance);once in my life
 rưỡi;chín giờ ____ em làm việc.;chín giờ rưỡi em làm việc.;half;I work at 9:30
 cầu;___;cầu;bridge;bridge
+nhạt;đỏ ____;đỏ nhạt;light red;light
+nhẹ;đỏ ___;đỏ nhẹ;light red;light
+đậm;ghi ___;ghi đậm;dark grey;dark grey
+màu;___;màu;color;color
+bạc;màu ___;màu bạc;silver;silver
+trắng;màu _____;màu trắng;white;white
+đen;màu ___;màu đen;black;black
+đỏ;màu __;màu đỏ;red;red
+nâu;màu ___;màu nâu;brown;brown
+cam;màu ___;màu cam;orange;orange
+vàng;màu ____;màu vàng;yellow, gold;yellow, gold
+ô liu;_ ___;ô liu;olive;olive
+xanh lá;màu ____ __;màu xanh lá;green;green
+xám;màu ___;màu xám;gray;gray
+xanh da trời;màu ____ __ ____;màu xanh da trời;blue;blue
