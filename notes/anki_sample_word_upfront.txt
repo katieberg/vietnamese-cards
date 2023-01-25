@@ -165,7 +165,6 @@ khô;dừa ___;dừa khô;dry;dry coconut
 sân bay;Tôi đang đến ___ ___;Tôi đang đến sân bay;I am going to the airport;I am going to the airport
 câu;trả lời với ___ hoàn chỉnh;trả lời với câu hoàn chỉnh;sentence;sentence
 hỏi;___ tôi một câu hỏi;hỏi tôi một câu hỏi;ask;ask me a question
-câu hỏi;hỏi tôi một ___ ___;hỏi tôi một câu hỏi;question;ask me a question
 bao lâu;___ ___;bao lâu;how long;how long
 đời;một lần trong ___;một lần trong đời;life (existance);once in my life
 rưỡi;chín giờ ____ em làm việc.;chín giờ rưỡi em làm việc.;half;I work at 9:30

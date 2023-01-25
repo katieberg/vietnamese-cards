@@ -165,7 +165,6 @@ khô [sound:cc989c8a938fcd62fa14d39407e88d71.mp3];dừa ___;dừa khô [sound:8f
 sân bay [sound:e7c62f4e4bab6a1927b363ff762d7f39.mp3];Tôi đang đến ___ ___;Tôi đang đến sân bay [sound:42f12d7fc56db19ddab23ef6471f3fa2.mp3];I am going to the airport;I am going to the airport
 câu [sound:926435bea1da9c7e22b1679d99baac85.mp3];trả lời với ___ hoàn chỉnh;trả lời với câu hoàn chỉnh [sound:49f45f0ef636a400df6967053d8b5086.mp3];sentence;sentence
 hỏi [sound:a205bbd01157636b1198cc039ccbf058.mp3];___ tôi một câu hỏi;hỏi tôi một câu hỏi [sound:540c926d1b3354e38f4a5034b8489eb9.mp3];ask;ask me a question
-câu hỏi [sound:6bc40ea6d6b58ea41044fbee6edab7e2.mp3];hỏi tôi một ___ ___;hỏi tôi một câu hỏi [sound:540c926d1b3354e38f4a5034b8489eb9.mp3];question;ask me a question
 bao lâu [sound:e3695c0fa7cd5c39ae6de0e74e1c5c74.mp3];___ ___;bao lâu [sound:e3695c0fa7cd5c39ae6de0e74e1c5c74.mp3];how long;how long
 đời [sound:222872eea84d36de816f938cea120fd4.mp3];một lần trong ___;một lần trong đời [sound:edaf01142c8f800ad5081bc510cccede.mp3];life (existance);once in my life
 rưỡi [sound:0c431d67b454a5bdbedc83fcb96506bc.mp3];chín giờ ____ em làm việc.;chín giờ rưỡi em làm việc. [sound:ea682fe194e44a547a9fd70e4882d22e.mp3];half;I work at 9:30
