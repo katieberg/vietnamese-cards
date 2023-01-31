@@ -184,3 +184,18 @@ vàng [sound:1c033cf98154b5f4ffdf4a72ba075318.mp3];màu ____;màu vàng [sound:d
 xanh lá [sound:1af51fd1a8ab81819be6164ef1b53002.mp3];màu ____ __;màu xanh lá [sound:f9c01a609e8195a940b0674324760d74.mp3];green;green
 xám [sound:fc3b8f3fcc17825549c8e65441fec60b.mp3];màu ___;màu xám [sound:197b9e592f5ef910efc8b99cfc265563.mp3];gray;gray
 xanh da trời [sound:cb4fd97a993bf16dda425f4b32a7ca4f.mp3];màu ____ __ ____;màu xanh da trời [sound:53fb23dada6eb5cbd20485e7a205dee8.mp3];blue;blue
+va li [sound:c19a52fa25df01fad098e95c217999fb.mp3];Trời, __ __ nào cũng giống nhau.;Trời, va li nào cũng giống nhau. [sound:aa4b15fece6f587e5a598f006cb6844f.mp3];suitcase;God, all these suitcases are the same.
+Tụi [sound:29e67cd9103f5148656c838ed8702c1e.mp3];___ con mới đi du lịch Hà Nội.;Tụi con mới đi du lịch Hà Nội. [sound:196a1e384016ddee2c6683195d59c5c2.mp3];(plural marker);We just travelled to Hanoi for leisure.
+Tụi con [sound:64d3c2d905330159ce1ad80e8187a0bb.mp3];___ ___ mới đi du lịch Hà Nội.;Tụi con mới đi du lịch Hà Nội. [sound:196a1e384016ddee2c6683195d59c5c2.mp3];we,you (plural);We just travelled to Hanoi for leisure.
+mới [sound:6eb6fc944bf1c9de70fe6cd1846d1174.mp3];Tụi con ___ đi du lịch Hà Nội.;Tụi con mới đi du lịch Hà Nội. [sound:196a1e384016ddee2c6683195d59c5c2.mp3];just;We just travelled to Hanoi for leisure.
+đi du lịch [sound:98c45f8406481763a5ee46f12107249f.mp3];Tụi con mới __ __ ____ Hà Nội.;Tụi con mới đi du lịch Hà Nội. [sound:196a1e384016ddee2c6683195d59c5c2.mp3];go travelling (for leisure);We just travelled to Hanoi for leisure.
+Úc [sound:6be8ad9d2510d58ce3aa8a6f459406d9.mp3];Chú sống ở __;Chú sống ở Úc [sound:6fad608f2a3967fc7a46d5cb76ba164d.mp3];Australia;I live in Australia
+bay [sound:4a418d0b7aacbbec703f8aee911e08fe.mp3];Chú ___ từ Sydney tới Hồng Kông;Chú bay từ Sydney tới Hồng Kông [sound:d2653f02aab7e8febfccd964458735e9.mp3];fly;I am flying from Sydney to Hong Kong
+từ [sound:3072878d0b99f76737cb1187b6890537.mp3];Chú bay __ Sydney tới Hồng Kông;Chú bay từ Sydney tới Hồng Kông [sound:d2653f02aab7e8febfccd964458735e9.mp3];from;I am flying from Sydney to Hong Kong
+tới [sound:ace81abc2403ec1783c6107890b10f16.mp3];Chú bay từ Sydney ___ Hồng Kông;Chú bay từ Sydney tới Hồng Kông [sound:d2653f02aab7e8febfccd964458735e9.mp3];to;I am flying from Sydney to Hong Kong
+Để cho [sound:702af3747b911cd22558f0bc06b9a3da.mp3];__ anh lấy ___;Để anh lấy cho [sound:3530351aa4b4d8908c80e02f9e411b1d.mp3];Let me... for you;Let me get it for you
+lấy [sound:afcbe742ddbe568f1e9f8e03cea3ebe3.mp3];Để anh ___ cho;Để anh lấy cho [sound:3530351aa4b4d8908c80e02f9e411b1d.mp3];take;Let me get it for you
+Chà [sound:c7c45811b79fe4f9c8012acd65a2dc0d.mp3];___ bạn gái con đang giận con hả?;Chà bạn gái con đang giận con hả? [sound:8e73380ed725b057cd9388de17cc94ea.mp3];wow;Wow, your girlfriend is angry with you?
+giận [sound:c091bba0725d601ae6c655f4f8ceb091.mp3];Chà bạn gái con đang ____ con hả?;Chà bạn gái con đang giận con hả? [sound:8e73380ed725b057cd9388de17cc94ea.mp3];angry;Wow, your girlfriend is angry with you?
+ảnh [sound:e388bbdb1e93ed23bf144dcfed84462f.mp3];Con không phải bạn gái ___;Con không phải bạn gái ảnh [sound:bf48982a240b97a63dea2c8318b75e27.mp3];he,him;I am not his girlfriend
+vợ [sound:1db206a604fc3f1a2e46779eb0a79a1c.mp3];À... là vợ con hả;À... là vợ con hả [sound:9d3c8658dcba451062c6e0f074859021.mp3];wife;Ah! You're his wife

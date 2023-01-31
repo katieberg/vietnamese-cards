@@ -184,3 +184,18 @@ vàng;màu ____;màu vàng;yellow, gold;yellow, gold
 xanh lá;màu ____ __;màu xanh lá;green;green
 xám;màu ___;màu xám;gray;gray
 xanh da trời;màu ____ __ ____;màu xanh da trời;blue;blue
+va li;Trời, __ __ nào cũng giống nhau.;Trời, va li nào cũng giống nhau.;suitcase;God, all these suitcases are the same.
+Tụi;___ con mới đi du lịch Hà Nội.;Tụi con mới đi du lịch Hà Nội.;(plural marker);We just travelled to Hanoi for leisure.
+Tụi con;___ ___ mới đi du lịch Hà Nội.;Tụi con mới đi du lịch Hà Nội.;we,you (plural);We just travelled to Hanoi for leisure.
+mới;Tụi con ___ đi du lịch Hà Nội.;Tụi con mới đi du lịch Hà Nội.;just;We just travelled to Hanoi for leisure.
+đi du lịch;Tụi con mới __ __ ____ Hà Nội.;Tụi con mới đi du lịch Hà Nội.;go travelling (for leisure);We just travelled to Hanoi for leisure.
+Úc;Chú sống ở __;Chú sống ở Úc;Australia;I live in Australia
+bay;Chú ___ từ Sydney tới Hồng Kông;Chú bay từ Sydney tới Hồng Kông;fly;I am flying from Sydney to Hong Kong
+từ;Chú bay __ Sydney tới Hồng Kông;Chú bay từ Sydney tới Hồng Kông;from;I am flying from Sydney to Hong Kong
+tới;Chú bay từ Sydney ___ Hồng Kông;Chú bay từ Sydney tới Hồng Kông;to;I am flying from Sydney to Hong Kong
+Để cho;__ anh lấy ___;Để anh lấy cho;Let me... for you;Let me get it for you
+lấy;Để anh ___ cho;Để anh lấy cho;take;Let me get it for you
+Chà;___ bạn gái con đang giận con hả?;Chà bạn gái con đang giận con hả?;wow;Wow, your girlfriend is angry with you?
+giận;Chà bạn gái con đang ____ con hả?;Chà bạn gái con đang giận con hả?;angry;Wow, your girlfriend is angry with you?
+ảnh;Con không phải bạn gái ___;Con không phải bạn gái ảnh;he,him;I am not his girlfriend
+vợ;À... là vợ con hả;À... là vợ con hả;wife;Ah! You're his wife
