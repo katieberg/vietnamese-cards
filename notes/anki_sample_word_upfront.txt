@@ -200,3 +200,4 @@ giận;Chà bạn gái con đang ____ con hả?;Chà bạn gái con đang giận
 ảnh;Con không phải bạn gái ___;Con không phải bạn gái ảnh;he,him;I am not his girlfriend
 vợ;À... là __ con hả;À... là vợ con hả;wife;Ah! You're his wife
 con;À... là vợ ___ hả;À... là vợ con hả;you (child);Ah! You're his wife
+té;Anh bị __; Anh bị té;fall;I fall 
