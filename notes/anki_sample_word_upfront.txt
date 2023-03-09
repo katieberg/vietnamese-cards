@@ -198,4 +198,5 @@ lấy;Để anh ___ cho;Để anh lấy cho;take;Let me get it for you
 Chà;___ bạn gái con đang giận con hả?;Chà bạn gái con đang giận con hả?;wow;Wow, your girlfriend is angry with you?
 giận;Chà bạn gái con đang ____ con hả?;Chà bạn gái con đang giận con hả?;angry;Wow, your girlfriend is angry with you?
 ảnh;Con không phải bạn gái ___;Con không phải bạn gái ảnh;he,him;I am not his girlfriend
-vợ;À... là vợ con hả;À... là vợ con hả;wife;Ah! You're his wife
+vợ;À... là __ con hả;À... là vợ con hả;wife;Ah! You're his wife
+con;À... là vợ ___ hả;À... là vợ con hả;you (child);Ah! You're his wife
