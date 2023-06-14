@@ -23,7 +23,7 @@ def get_cached_mp3_url_getter(phrase_url_map):
     url = 'https://api.fpt.ai/hmi/tts/v5'
     headers = {
         'api-key': FPT_API_KEY,
-        'speed': '-1',
+        'speed': '-2',
         'voice': 'minhquangace'
     }
     def get_mp3_url(phrase):

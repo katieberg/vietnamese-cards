@@ -200,4 +200,8 @@ giận;Chà bạn gái con đang ____ con hả?;Chà bạn gái con đang giận
 ảnh;Con không phải bạn gái ___;Con không phải bạn gái ảnh;he,him;I am not his girlfriend
 vợ;À... là __ con hả;À... là vợ con hả;wife;Ah! You're his wife
 con;À... là vợ ___ hả;À... là vợ con hả;you (child);Ah! You're his wife
-té;Anh bị __; Anh bị té;fall;I fall 
+té;Anh bị __; Anh bị té;fall;I fall
+giải thích;anh không ____ _____ được;anh không giải thích được;explain;I can't explain
+Dạo này;___ ___ anh làm gì vui không?;Dạo này anh làm gì vui không?;recently;did you do anything fun recently?
+đi đâu;Anh không __ ___;Anh không đi đâu;go anywhere;I don't go anywhere
+sao;anh có ___ không?;anh có sao không?;problem;are you ok?
