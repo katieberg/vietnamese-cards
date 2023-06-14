@@ -2,6 +2,7 @@ import requests
 import urllib.request
 import os
 import os.path
+from add_id import add_id
 
 # Script will do the following
 # Will take the file of notes
@@ -67,7 +68,6 @@ def main():
     # get mp3 urls
     for line in lines:
         segments = line.split(';')
-        print(segments)
         vn_word = segments[0] 
         vn_sentence = segments[2]
         get_mp3_url(vn_word)
@@ -90,4 +90,5 @@ def main():
             output.write(f'{new_line}\n')
 
 if __name__ == '__main__':
+    add_id()
     main()
