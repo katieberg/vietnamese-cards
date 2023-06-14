@@ -205,3 +205,25 @@ giải thích;anh không ____ _____ được;anh không giải thích được;e
 Dạo này;___ ___ anh làm gì vui không?;Dạo này anh làm gì vui không?;recently;did you do anything fun recently?
 đi đâu;Anh không __ ___;Anh không đi đâu;go anywhere;I don't go anywhere
 sao;anh có ___ không?;anh có sao không?;problem;are you ok?
+cuối tuần sao;Ê Minh, ____ ____ ___, vui không?;Ê Minh, cuối tuần sao, vui không?;How was the weekend?;Hey Minh, how was the weekend? Was it fun?
+bài tập;Không. Em ở nhà làm ___ ___ thôi.;Không. Em ở nhà làm bài tập thôi.;homework;No. I only did homework at home
+thôi;Không. Em ở nhà làm bài tập thôi.;Không. Em ở nhà làm bài tập ____.;only;No. I only did homework at home
+mẹ;Cuối tuần sao, vui không __?;Cuối tuần sao, vui không mẹ?;Mom;How was your weekend, fun? Mom
+làm tóc;Cuối tuần nhiều người đi ___ ___.;Cuối tuần nhiều người đi làm tóc.;hair done;Lots of people get their hair done over the weekend
+mà;Mẹ phải làm __.;Mẹ phải làm mà.;emphatic pronoun to emphasise that this is the opposite of what was asked;Mom had to work!
+đọc;Ba ___ xong một cuốn sách hay lắm.;Ba đọc xong một cuốn sách hay lắm.;readk;Dad finished reading a really good book
+xong;Ba đọc ____ một cuốn sách hay lắm.;Ba đọc xong một cuốn sách hay lắm.;finish;Dad finished reading a really good book
+cuốn sách;Ba đọc xong một ____ ____ hay lắm.;Ba đọc xong một cuốn sách hay lắm.;book;Dad finished reading a really good book
+hay lắm;Ba đọc xong một cuốn sách ___ ___.;Ba đọc xong một cuốn sách hay lắm.;very good (interesting);Dad finished reading a really good book
+được rồi; Thôi, ____ ___ ba.;Thôi, được rồi ba.;it's okay;Stop, it's okay dad
+Thôi; ____, được rồi ba.;Thôi, được rồi ba.;Stop (talking);Stop, it's okay dad
+ông nội;Cuối tuần sao, ___ ___?;Cuối tuần sao, ông nội?;Paternal grandfather;How was your weekend grandpa?
+bà nội;Ông cãi nhau với __ ___.;Ông cãi nhau với bà nội.;Paternal grandmother;Grandpa argued with grandma...
+cãi nhau;Bà ___ ____ với ông nôi.;Bà cãi nhau với ông nôi.;argue;Grandma argued with grandpa...
+không ai;Ủa... _____ __ hỏi con cuối tuần sao hả?;Ủa... không ai hỏi con cuối tuần sao hả?;No one;No one asked me how my weekend went?
+Sao;Ờ ha! ___, con với bạn trai đi du lịch vui không?;Ờ ha! Sao, con với bạn trai đi du lịch vui không?;Tell me;Tell me, did you have fun on vacation with your boyfriend?
+bạn trai;Sao, con với ___ ____ đi du lịch vui không?;Sao, con với bạn trai đi du lịch vui không?;boyfriend;Tell me, did you have fun on vacation with your boyfriend?
+kết hôn;Chừng nào tụi con định ___ ___?;Chừng nào tụi con định kết hôn?;get married;When are you (children) getting married?
+Chừng nào;Chừng nào tụi con định kết hôn?;_____ ___ tụi con định kết hôn?;when;When are you (children) getting married?
+Sao;___ bà nội hỏi khó quá vậy...;Sao bà nội hỏi khó quá vậy...;why;Why does grandma ask hard questions...
+khó;Sao bà nội hỏi ___ quá vậy...;Sao bà nội hỏi khó quá vậy...;hard;Why does grandma ask hard questions...
