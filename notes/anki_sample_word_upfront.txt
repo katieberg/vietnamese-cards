@@ -227,3 +227,13 @@ kết hôn;Chừng nào tụi con định ___ ___?;Chừng nào tụi con địn
 Chừng nào;Chừng nào tụi con định kết hôn?;_____ ___ tụi con định kết hôn?;when;When are you (children) getting married?;ae99d6bb-456b-44a8-88a0-dc6fe46198b2
 Sao;___ bà nội hỏi khó quá vậy...;Sao bà nội hỏi khó quá vậy...;why;Why does grandma ask hard questions...;42f2e00f-db78-462b-9472-b9f35a6e8af6
 khó;Sao bà nội hỏi ___ quá vậy...;Sao bà nội hỏi khó quá vậy...;hard;Why does grandma ask hard questions...;e523c6bf-2104-4676-a3ba-7f899dd52dc1
+đại học;Ê, ___ ___ học vui không?;Ê, học đại học vui không?;University;Is studying at a university fun?;698fd3e6-5320-4895-b22a-1878ebdb4eec
+vui;Ê, đại học học ___ không?;Ê, học đại học vui không?;fun;Is studying at a university fun?;661b16d3-cddc-42e8-9ecd-c5af16d57ef1
+kế toán;Vui gì, học __ ____ chán lắm!;Vui gì, học kế toán chán lắm!;accounting/accountant;what fun, studing accounting is really boring!;699a3036-f199-4852-b8f2-47d5616cce5e
+chán;Vui gì, học kế toán ____ lắm!;Vui gì, học kế toán chán lắm!;boring;what fun, studing accounting is really boring!;78811e49-86cc-4324-a83f-a60987569a0a
+lắm;Vui gì, học kế toán chán ___!;Vui gì, học kế toán chán lắm!;very;what fun, studing accounting is really boring!;0ce6d7c1-e78f-48f9-a010-a2505c5ab406
+dễ;Học kế toán __ có việc.;Học kế toán dễ có việc.;easy;Studying accounting eases having a job.;9a4c6393-7095-4ce6-9b5c-a04a0b488f5e
+việc;Học kế toán dễ có ____.;Học kế toán dễ có việc.;job;Studying accounting eases having a job.;d9092f7e-027a-4df6-ae09-d5f1171a4123
+có;Học kế toán dễ __ việc.;Học kế toán dễ có việc.;to have;Studying accounting eases having a job.;b01fce8d-1e90-4db1-83eb-91f43932a1f5
+nào cũng;Công ty nào cũng cần.;Công ty nào cũng cần.;every;Every company needs it.;28b90ee1-2988-4c97-a8e6-df9465e16cdb
+cần;Công ty nào cũng cần.;Công ty nào cũng cần.;needs;Every company needs it.;c654ccae-6c19-45a4-8503-4970daad394f
